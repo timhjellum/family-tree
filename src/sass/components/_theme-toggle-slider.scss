@@ -1,0 +1,56 @@
+@use '../base/color';
+@use '../mixins/neumorph';
+
+.theme-toggle-slider {
+	position: relative;
+	padding: 0 6px;
+	z-index: 2;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 65px;
+	height: 32px;
+	background: var(--grey-light-soft);
+	border: 1.5px solid var(--grey-light);
+	border-radius: 24px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+	cursor: pointer;
+	transition: background 0.2s, border 0.2s;
+	overflow: visible;
+	flex-shrink: 0;
+}
+
+.theme-toggle-slider span {
+	font-size: 1rem;
+	opacity: 1;
+	transition: opacity 0.2s;
+	z-index: 2;
+	position: relative;
+	display: flex;
+	align-items: center;
+
+	.material-icons-outlined {
+		font-size: 1.1rem;
+	}
+}
+
+.theme-toggle-slider span.active {
+	opacity: 1;
+}
+
+.theme-toggle-slider .slider {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 29px;
+	height: 29px;
+	background: var(--root);
+	border-radius: 50%;
+	transition: left 0.2s, background 0.2s;
+	z-index: 1;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.10);
+
+	[data-theme="light"] & {
+		background: var(--root-light);
+	}
+}

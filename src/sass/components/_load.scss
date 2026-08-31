@@ -1,0 +1,434 @@
+@use "../base/color";
+@use "../mixins/neumorph";
+
+body:has(#load) {
+  overflow: hidden;
+}
+
+#load {
+  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  padding: 2rem 0;
+  margin-top: -2rem;
+  box-sizing: border-box;
+  position: relative;
+
+  @media (min-width: 769px) {
+    margin-top: 0;
+    justify-content: center;
+    height: 100vh;
+    min-height: unset;
+    padding: 0;
+    overflow-y: hidden;
+  }
+
+  .load-theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1;
+  }
+
+  > div {
+    width: 70%;
+    max-width: 900px;
+    box-sizing: border-box;
+  }
+
+  section {
+    &:not(:last-of-type) {
+      margin-bottom: 1rem;
+
+      @media only screen and (min-width: 380px) {
+        margin-bottom: 2rem;
+      }
+
+      @media only screen and (min-width: 769px) {
+        margin-bottom: 3rem;
+      }
+    }
+  }
+
+  .homepage-logo {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 0.25rem;
+
+    @media only screen and (min-width: 769px) {
+      width: 100px;
+      height: 100px;
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  .title-area > p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.85rem;
+
+    @media only screen and (min-width: 769px) {
+      font-size: 1rem;
+    }
+  }
+
+  h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 2.5rem;
+    margin: 0px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 1;
+
+    @media only screen and (min-width: 769px) {
+      font-size: 5em;
+    }
+  }
+
+  h2 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    font-style: italic;
+    color: var(--text);
+    margin: 0.25rem auto;
+
+    @media only screen and (min-width: 769px) {
+      font-size: 1.25rem;
+      margin: 0.5rem auto;
+    }
+  }
+
+  // --- Action cards ---
+
+  .actions-area {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    position: relative;
+
+    @media (min-width: 600px) {
+      flex-direction: row;
+      gap: 1rem;
+    }
+  }
+
+  .action-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1.25rem 1rem;
+    background-color: var(--grey-dark);
+    border: 1px solid var(--grey-light-soft);
+    border-radius: 14px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+    position: relative;
+
+    @media (min-width: 600px) {
+      flex: 1;
+      padding: 2.5rem 1rem;
+    }
+
+    &:hover {
+      background-color: var(--root-light);
+
+      .action-icon,
+      .expand-arrow {
+        color: var(--text);
+      }
+
+      .info-icon {
+        color: var(--text);
+      }
+    }
+
+    h2 {
+      margin: 0.25rem 0;
+    }
+
+    > p {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 0.8rem;
+      color: var(--text-dark);
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    .action-icon {
+      font-size: 2rem;
+      color: var(--root);
+      margin-bottom: 0.25rem;
+
+      @media (min-width: 600px) {
+        font-size: 2.5rem;
+      }
+    }
+
+    svg.action-icon {
+      width: 2rem;
+      height: 2rem;
+
+      @media (min-width: 600px) {
+        width: 2.5rem;
+        height: 2.5rem;
+      }
+    }
+
+    // Hidden file input inside upload card
+    input[type="file"] {
+      position: absolute;
+      opacity: 0;
+      height: 0;
+      width: 0;
+      pointer-events: none;
+    }
+
+    .upload-desc {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .info-icon {
+      background-color: transparent;
+      border: none;
+      color: var(--root);
+      cursor: pointer;
+      padding: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition:
+        color 0.25s,
+        transform 0.2s;
+
+      .material-icons-outlined {
+        font-size: 1.25rem;
+      }
+
+      &:hover {
+        color: var(--root);
+        transform: scale(1.1);
+      }
+
+      &:focus {
+        outline: 2px solid var(--root);
+        outline-offset: 2px;
+      }
+    }
+
+    .expand-arrow {
+      transition: transform 0.3s;
+      margin-top: 0.25rem;
+      font-size: 1.5rem;
+      color: var(--root);
+
+      &.open {
+        transform: rotate(180deg);
+      }
+    }
+  }
+
+  // --- Sample overlay (fills actions-area) ---
+
+  .sample-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--grey-dark);
+    border: 1px solid var(--grey-light-soft);
+    border-radius: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 0.75rem 0.75rem;
+    box-sizing: border-box;
+    z-index: 1;
+    animation: fadeIn 0.2s ease;
+    overflow-y: auto;
+
+    .sample-overlay-heading {
+      width: 100%;
+      text-align: center;
+      margin: 0 0 0.5rem;
+      font-size: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      color: var(--text);
+
+      svg {
+        width: 1.5rem;
+        height: 1.5rem;
+        color: var(--root);
+      }
+    }
+
+    .sample-overlay-close {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+    }
+
+    .sample-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem;
+
+      @media (min-width: 600px) {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+      }
+    }
+
+    .sampleButton {
+      @include neumorph.neumorph;
+      color: var(--text);
+      background-color: var(--root-light);
+
+      @media (min-width: 600px) {
+        margin-bottom: 0;
+      }
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      font-size: 0.8rem;
+      text-transform: lowercase;
+      cursor: pointer;
+      transition: background-color 0.25s;
+
+      &:hover {
+        background-color: var(--root);
+      }
+
+      &:focus {
+        outline: none;
+        box-shadow: 0 0 0 2px var(--root);
+      }
+    }
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .error {
+    font-style: italic;
+    color: var(--root);
+  }
+
+  a {
+    color: var(--root);
+  }
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(27, 20, 20, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  padding: 1.5rem;
+  box-sizing: border-box;
+}
+
+.modal-content {
+  background: var(--grey-dark);
+  border: 1.5px solid var(--grey-light-soft);
+  border-radius: 1rem;
+  padding: 1.25rem;
+  max-width: 600px;
+  max-height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  position: relative;
+  color: var(--text);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+
+  @media (min-width: 600px) {
+    padding: 1.5rem;
+  }
+
+  h2 {
+    color: var(--root);
+    margin-top: 0;
+    font-size: 1.5rem;
+  }
+
+  p {
+    color: var(--text);
+    line-height: 1.5;
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+  }
+
+  .modal-close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+  }
+
+  .gedcom-programs {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    margin: 0.75rem 0;
+
+    @media (min-width: 600px) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .program {
+      background: var(--grey);
+      padding: 0.75rem;
+      border-radius: 0.5rem;
+      border: 1px solid var(--grey-light-soft);
+      min-width: 0;
+      overflow-wrap: break-word;
+
+      strong {
+        color: var(--root);
+        display: block;
+        margin-bottom: 0.25rem;
+        font-size: 0.9rem;
+      }
+
+      p {
+        color: var(--text-dark);
+        font-size: 0.8rem;
+        margin: 0;
+        line-height: 1.4;
+      }
+    }
+  }
+
+  .modal-note {
+    margin-top: 1rem;
+    padding: 0.75rem;
+    background: var(--grey);
+    border-radius: 0.5rem;
+    border-left: 3px solid var(--root);
+    font-style: italic;
+    font-size: 0.85rem;
+  }
+}

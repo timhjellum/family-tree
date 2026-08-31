@@ -1,0 +1,4377 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Hjellum Family Tree
+3 RIN 27123211
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 11 Jul 2026
+2 TIME 17:55:54
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I272037909085@ INDI
+1 NAME Jon Sjursen Skiple Kleivane Kolve /Hjellum/
+2 GIVN Jon Sjursen Skiple Kleivane Kolve
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F33@
+1 FAMS @F39@
+1 BIRT
+2 DATE 19 Jun 1820
+2 PLAC Voss, Hordaland, Norway
+1 DEAT
+2 DATE 1907
+2 PLAC Voss, Hordaland, Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005293635:1030:25116931
+2 _APID 5088553795:1030:27898520
+2 _APID 12509011792:1030:30201562
+2 _APID 36432270149:1030:80806483
+2 _APID 190066548959:1030:108336215
+2 _APID 190085700812:1030:109590373
+2 _APID 320016990583:1030:18209844
+2 _APID 330090243624:1030:105810641
+2 _APID 410001238196:1030:100193373
+2 _APID 410046438224:1030:55729839
+1 OBJE @O1@
+2 _PRIM Y
+1 _MTTAG @T32@
+0 @I1996219102@ INDI
+1 NAME Timothy /Hjellum/
+2 GIVN Timothy
+2 SURN Hjellum
+2 SOUR @S878654054@
+3 _APID 1,1732::372538935
+2 SOUR @S878654048@
+3 _APID 1,1788::257142766
+2 SOUR @S878654043@
+3 _APID 1,8742::7456747
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F25@
+1 BIRT
+2 DATE 15 Apr 1966
+2 PLAC Becker, Minnesota, USA
+2 SOUR @S878654054@
+3 _APID 1,1732::372538935
+2 SOUR @S878654048@
+3 _APID 1,1788::257142766
+2 SOUR @S878654043@
+3 _APID 1,8742::7456747
+1 RESI
+2 DATE 1991
+2 PLAC Scottsdale, AZ
+2 SOUR @S878654048@
+3 _APID 1,1788::257142766
+1 RESI
+2 DATE 2013
+2 PLAC Las Vegas, Clark, Nevada, USA
+2 SOUR @S981192738@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Bear Creek High School; Year: 1981
+3 DATA
+4 WWW https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+3 _APID 1,1265::646744060
+1 RESI
+2 PLAC Denver, CO
+2 SOUR @S878654054@
+3 _APID 1,1732::372538935
+1 SOUR @S981192738@
+2 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Bear Creek High School; Year: 1981
+2 DATA
+3 WWW https://www.classmates.com/yearbooks/?page=1&s=81166&utm_source=ancestry&utm_medium=unpaid&utm_campaign=partnerships&utm_term=yearbook&utm_content=81166
+2 _APID 1,1265::646744060
+1 SOUR @S878654054@
+2 _APID 1,1732::372538935
+1 SOUR @S878654048@
+2 _APID 1,1788::257142766
+1 SOUR @S878654043@
+2 _APID 1,8742::7456747
+1 OBJE @O19@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 74
+3 _TOP 98
+3 _WDTH 297
+3 _HGHT 392
+3 _TYPE primary
+0 @I1996219108@ INDI
+1 NAME Shirley Blair /Hjellum/
+2 GIVN Shirley Blair
+2 SURN Hjellum
+2 SOUR @S878654043@
+3 _APID 1,8742::157456747
+2 SOUR @S878654076@
+3 _APID 1,60927::840871
+1 SEX M
+1 FAMC @F18@
+1 FAMS @F20@
+1 BIRT
+2 DATE 12/12/1928
+2 PLAC North Dakota
+1 DEAT
+2 DATE 2008
+2 PLAC Phoenix, Maricopa, Arizona, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 19589615121:1030:41186158
+2 _APID 36432268547:1030:80806483
+2 _APID 40335216784:1030:75924135
+1 SOUR @S878654043@
+2 _APID 1,8742::157456747
+1 SOUR @S878654076@
+2 _APID 1,60927::840871
+1 OBJE @O6@
+2 _PRIM Y
+0 @I1996225971@ INDI
+1 NAME Olaf /Hjellum/
+2 GIVN Olaf
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F18@
+1 BIRT
+2 DATE 07 Jan 1896
+2 PLAC Bergen, Hordaland, Norway
+1 EVEN
+2 TYPE Page 1 - Selective Service Registration Cards, World War II: Fou
+2 DATE 7 Jan 1896
+2 PLAC Bergen, Norway
+2 SOUR @S878731022@
+3 PAGE Page 1 - Selective Service Registration Cards, World War II: Fourth Registration 7 Jan 1896
+3 DATA
+4 WWW https://www.fold3.com/image/577799610?terms=hjellum&amp;amp;xid=1945
+3 OBJE @O16@
+2 OBJE @O16@
+2 NOTE WWII draft cards from the Fourth Registration, often called the &quot;Old Man's Draft,&quot; because it registered men who were 45 to 64 years old at the time.
+1 EVEN
+2 TYPE Page 1 - WWI Draft Registration Cards
+2 DATE 7 Jan 1896
+2 PLAC North Dakota
+2 SOUR @S878731007@
+3 PAGE Page 1 - WWI Draft Registration Cards 7 Jan 1896
+3 DATA
+4 WWW https://www.fold3.com/image/559175278?terms=hjellum&amp;amp;xid=1945
+3 OBJE @O5@
+2 OBJE @O5@
+2 OBJE @O10@
+2 NOTE In 1917 and 1918, approximately 24 million men living in the United States completed a World War I draft registration card.
+1 EVEN
+2 TYPE Page 2 - Selective Service Registration Cards, World War II: Fou
+2 DATE 7 Jan 1896
+2 PLAC Bergen, Norway
+2 SOUR @S878731022@
+3 PAGE Page 2 - Selective Service Registration Cards, World War II: Fourth Registration 7 Jan 1896
+3 DATA
+4 WWW https://www.fold3.com/image/577799611?xid=1945
+3 OBJE @O11@
+2 OBJE @O11@
+2 NOTE WWII draft cards from the Fourth Registration, often called the &quot;Old Man's Draft,&quot; because it registered men who were 45 to 64 years old at the time.
+1 EVEN
+2 TYPE Page 130 - US Army WWI Transport Service, Passenger Lists
+2 DATE 1918 Oct 28
+2 PLAC United States
+2 SOUR @S878731043@
+3 PAGE Page 130 - US Army WWI Transport Service, Passenger Lists 1918 Oct 28
+3 DATA
+4 WWW https://www.fold3.com/image/603960411?rec=620479309&amp;amp;terms=hjellum&amp;amp;xid=1945
+3 OBJE @O7@
+2 OBJE @O7@
+2 NOTE Mongolia 1918 Oct 28 Thru Mount Shasta
+1 EVEN
+2 TYPE Olaf Hjellum  (1896)
+2 SOUR @S878731070@
+3 PAGE Olaf Hjellum  (1896)
+3 DATA
+4 WWW https://www.fold3.com/page/626801223-olaf-hjellum-1896?xid=1945
+3 OBJE @O15@
+2 OBJE @O15@
+2 NOTE 1914-1918
+1 DEAT
+2 DATE 15 Aug 1981
+2 PLAC Billings, Yellowstone, Montana, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID -2138835360:1030:45010
+2 _APID -1865257414:1030:2068522
+2 _APID -936193718:1030:8528145
+2 _APID 554252810:1030:16764359
+2 _APID 12509012936:1030:30201562
+2 _APID 19589615118:1030:41186158
+2 _APID 30077956719:1030:61801560
+2 _APID 32086509495:1030:62293381
+2 _APID 36432268147:1030:80806483
+2 _APID 40335236200:1030:75924135
+2 _APID 48502921981:1030:84710169
+2 _APID 48578396273:1030:33296969
+2 _APID 190066548891:1030:108336215
+1 SOUR @S878731007@
+2 PAGE Page 1 - WWI Draft Registration Cards 7 Jan 1896
+2 DATA
+3 WWW https://www.fold3.com/image/559175278?terms=hjellum&amp;amp;xid=1945
+2 OBJE @O5@
+1 SOUR @S878731022@
+2 PAGE Page 1 - Selective Service Registration Cards, World War II: Fourth Registration 7 Jan 1896
+2 DATA
+3 WWW https://www.fold3.com/image/577799610?terms=hjellum&amp;amp;xid=1945
+2 OBJE @O16@
+1 SOUR @S878731022@
+2 PAGE Page 2 - Selective Service Registration Cards, World War II: Fourth Registration 7 Jan 1896
+2 DATA
+3 WWW https://www.fold3.com/image/577799611?xid=1945
+2 OBJE @O11@
+1 SOUR @S878731043@
+2 PAGE Page 130 - US Army WWI Transport Service, Passenger Lists 1918 Oct 28
+2 DATA
+3 WWW https://www.fold3.com/image/603960411?rec=620479309&amp;amp;terms=hjellum&amp;amp;xid=1945
+2 OBJE @O7@
+1 SOUR @S878731070@
+2 PAGE Olaf Hjellum  (1896)
+2 DATA
+3 WWW https://www.fold3.com/page/626801223-olaf-hjellum-1896?xid=1945
+2 OBJE @O15@
+1 OBJE @O22@
+2 _PRIM Y
+1 OBJE @O15@
+1 OBJE @O7@
+1 OBJE @O11@
+1 OBJE @O16@
+1 OBJE @O5@
+1 OBJE @O21@
+1 OBJE @O23@
+1 OBJE @O18@
+1 OBJE @O2@
+1 OBJE @O28@
+1 OBJE @O30@
+1 OBJE @O10@
+0 @I1997625835@ INDI
+1 NAME Anders Jonsen /Hjellum/
+2 GIVN Anders Jonsen
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F23@
+1 BIRT
+2 DATE 13 Feb 1870
+2 PLAC norway
+1 DEAT
+2 DATE 21 November 1950
+2 PLAC  Norway - Kvinesdal, Vest-Agder
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID -2138835598:1030:45010
+2 _APID -1865257730:1030:2068522
+2 _APID -936193956:1030:8528145
+2 _APID 2005301477:1030:25116931
+2 _APID 12508779167:1030:30201562
+2 _APID 32086509493:1030:62293381
+2 _APID 36432268148:1030:80806483
+2 _APID 40335239092:1030:75924135
+2 _APID 48502921979:1030:84710169
+2 _APID 190066548889:1030:108336215
+2 _APID 190085700820:1030:109590373
+2 _APID 330090243626:1030:105810641
+0 @I1997628082@ INDI
+1 NAME Kari Ollsdatter /Underdal/
+2 GIVN Kari Ollsdatter
+2 SURN Underdal
+1 SEX F
+1 FAMC @F40@
+1 FAMS @F23@
+1 BIRT
+2 DATE 01 Jan 1867
+2 PLAC norway
+1 DEAT
+2 DATE 1949
+2 PLAC norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID -2138835599:1030:45010
+2 _APID -1865257731:1030:2068522
+2 _APID -936193957:1030:8528145
+2 _APID 12509011794:1030:30201562
+2 _APID 32086509494:1030:62293381
+2 _APID 36432268534:1030:80806483
+2 _APID 40335239132:1030:75924135
+2 _APID 48502921980:1030:84710169
+2 _APID 190066548890:1030:108336215
+2 _APID -2138835599:1030:45010
+2 _APID -1865257731:1030:2068522
+2 _APID -936193957:1030:8528145
+2 _APID 12509011794:1030:30201562
+2 _APID 32086509494:1030:62293381
+2 _APID 36432268534:1030:80806483
+2 _APID 40335239132:1030:75924135
+2 _APID 48502921980:1030:84710169
+2 _APID 190066548890:1030:108336215
+0 @I2002816132@ INDI
+1 NAME Ole Pederson /Underdal/
+2 GIVN Ole Pederson
+2 SURN Underdal
+1 SEX M
+1 FAMS @F40@
+1 BIRT
+2 DATE 1828
+2 PLAC norway
+1 DEAT
+2 DATE 1894
+2 PLAC norway
+0 @I2002816916@ INDI
+1 NAME Marta Olsdtr. /Berekvam/
+2 GIVN Marta Olsdtr.
+2 SURN Berekvam
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F40@
+1 BIRT
+2 DATE 1829
+2 PLAC Norway
+1 DEAT
+2 DATE 1927
+2 PLAC Norway
+0 @I2002817585@ INDI
+1 NAME Ole Ostensen /Berekvam/
+2 GIVN Ole Ostensen
+2 SURN Berekvam
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F9@
+1 BIRT
+2 DATE 1793
+2 PLAC Norway
+1 DEAT
+2 DATE 1887
+2 PLAC Norway
+0 @I2002818466@ INDI
+1 NAME Oystein Olsen /Berekvam/
+2 GIVN Oystein Olsen
+2 SURN Berekvam
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F7@
+1 BIRT
+2 DATE 1767
+2 PLAC Norway
+1 DEAT
+2 DATE 1828
+2 PLAC Norway
+0 @I2002819471@ INDI
+1 NAME Marta Jonsdtr. /Flaam/
+2 GIVN Marta Jonsdtr.
+2 SURN Flaam
+1 SEX F
+1 FAMC @F49@
+1 FAMS @F11@
+1 BIRT
+2 DATE 1734
+2 PLAC Norway
+1 DEAT
+2 PLAC Norway
+0 @I2006388695@ INDI
+1 NAME Janice Levonne /Shafer/
+2 GIVN Janice Levonne
+2 SURN Shafer
+2 SOUR @S878654043@
+3 _APID 1,8742::307456747
+2 SOUR @S878654076@
+3 _APID 1,60927::137673
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F20@
+1 BIRT
+2 DATE 01/04/1935
+2 PLAC Bantry, McHenry County, North Dakota, USA
+1 DEAT
+2 DATE 2014
+2 PLAC Phoenix, Maricopa, Arizona, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 40335237913:1030:75924135
+1 SOUR @S878654043@
+2 _APID 1,8742::307456747
+1 SOUR @S878654076@
+2 _APID 1,60927::137673
+0 @I2006393415@ INDI
+1 NAME Fred P /Shafer/
+2 GIVN Fred P
+2 SURN Shafer
+1 SEX M
+1 FAMC @F34@
+1 FAMS @F13@
+1 BIRT
+2 DATE 09/06/1900
+2 PLAC Logansport, Cass, Indiana, USA
+1 DEAT
+2 DATE 09/24/1984
+2 PLAC Towner, McHenry, North Dakota, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 40335238102:1030:75924135
+0 @I2006396036@ INDI
+1 NAME Frances /Wormsbecker/
+2 GIVN Frances
+2 SURN Wormsbecker
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576516
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F13@
+1 BIRT
+2 DATE 11/01/1910
+2 PLAC McHenry County, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576516
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576516
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 DEAT
+2 DATE 5 Jan 2003
+2 PLAC November, North Dakota, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID -3032939:1030:13817046
+2 _APID 38440663100:1030:80757044
+2 _APID 40335260846:1030:75924135
+2 _APID 192025432399:1030:152846397
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576516
+0 @I2006396922@ INDI
+1 NAME Adam /Wormsbecker/
+2 GIVN Adam
+2 SURN Wormsbecker
+2 SOUR @S878721797@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147; Box or Roll Number: 223
+3 _APID 1,1002::10676616
+2 SOUR @S878721727@
+3 PAGE North Dakota State University Archives; Fargo, North Dakota
+3 _APID 1,1078::2166999
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576510
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648554
+2 SOUR @S878721690@
+3 PAGE Registration State: North Dakota; Registration County: McHenry; Roll: 1819446
+3 _APID 1,6482::25837718
+2 SOUR @S878721759@
+3 _APID 1,6716::1120797
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::20973633
+2 SOUR @S878721806@
+3 _APID 1,60062::979219
+2 SOUR @S878678652@
+3 _APID 1,60525::135102280
+2 SOUR @S878678655@
+3 _APID 1,60901::12708922
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F32@
+1 FAMS @F41@
+1 BIRT
+2 DATE 5 Apr 1881
+2 PLAC Russia
+2 SOUR @S878721797@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147; Box or Roll Number: 223
+3 _APID 1,1002::10676616
+2 SOUR @S878721727@
+3 PAGE North Dakota State University Archives; Fargo, North Dakota
+3 _APID 1,1078::2166999
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576510
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648554
+2 SOUR @S878721690@
+3 PAGE Registration State: North Dakota; Registration County: McHenry; Roll: 1819446
+3 _APID 1,6482::25837718
+2 SOUR @S878721759@
+3 _APID 1,6716::1120797
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::20973633
+2 SOUR @S878678652@
+3 _APID 1,60525::135102280
+2 SOUR @S878678655@
+3 _APID 1,60901::12708922
+1 EVEN
+2 TYPE Arrival
+2 DATE 1900
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576510
+1 EVEN
+2 TYPE Arrival
+2 DATE 1902
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648554
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::20973633
+1 RESI
+2 DATE 1910
+2 PLAC Regstad, McHenry, North Dakota, USA
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::20973633
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576510
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 1925
+2 PLAC Township 157, Pierce, North Dakota, USA
+2 SOUR @S878721727@
+3 PAGE North Dakota State University Archives; Fargo, North Dakota
+3 _APID 1,1078::2166999
+1 RESI
+2 DATE 1930
+2 PLAC Bantry, McHenry, North Dakota, USA
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648554
+2 NOTE Marital Status: Widowed; Relation to Head: Head
+1 RESI
+2 DATE 1942
+2 PLAC Wiley City, Washington, USA
+2 SOUR @S878721797@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147; Box or Roll Number: 223
+3 _APID 1,1002::10676616
+1 RESI
+2 PLAC McHenry, North Dakota, USA
+2 SOUR @S878721690@
+3 PAGE Registration State: North Dakota; Registration County: McHenry; Roll: 1819446
+3 _APID 1,6482::25837718
+1 DEAT
+2 DATE 20 Aug 1944
+2 PLAC Yakima, Washington, USA
+2 SOUR @S878721759@
+3 _APID 1,6716::1120797
+2 SOUR @S878678652@
+3 _APID 1,60525::135102280
+1 BURI
+2 PLAC Yakima, Yakima County, Washington, United States of America
+2 SOUR @S878678652@
+3 _APID 1,60525::135102280
+1 SOUR @S878721797@
+2 PAGE The National Archives at St. Louis; St. Louis, Missouri; Record Group Title: Records of the Selective Service System, 1926-1975; Record Group Number: 147; Box or Roll Number: 223
+2 _APID 1,1002::10676616
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID -2617962:1030:13817046
+2 _APID 6398044001:1030:40321
+2 _APID 38423757745:1030:80757044
+2 _APID 40335269024:1030:75924135
+2 _APID 44129995741:1030:65023917
+2 _APID 142032631605:1030:86579678
+2 _APID 192025426287:1030:152846397
+2 _APID 270172828605:1030:110726287
+1 SOUR @S878721727@
+2 PAGE North Dakota State University Archives; Fargo, North Dakota
+2 _APID 1,1078::2166999
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576510
+1 SOUR @S878678328@
+2 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+2 _APID 1,6224::108648554
+1 SOUR @S878721690@
+2 PAGE Registration State: North Dakota; Registration County: McHenry; Roll: 1819446
+2 _APID 1,6482::25837718
+1 SOUR @S878721759@
+2 _APID 1,6716::1120797
+1 SOUR @S878721682@
+2 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+2 _APID 1,7884::20973633
+1 SOUR @S878721806@
+2 _APID 1,60062::979219
+1 SOUR @S878678652@
+2 _APID 1,60525::135102280
+1 SOUR @S878678655@
+2 _APID 1,60901::12708922
+1 OBJE @O17@
+2 _PRIM Y
+0 @I2006397731@ INDI
+1 NAME Brigetta /Brendle/
+2 GIVN Brigetta
+2 SURN Brendle
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576511
+1 NAME Brigeti /Warmsbecher/
+2 GIVN Brigeti
+2 SURN Warmsbecher
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229430
+1 SEX F
+1 FAMC @F47@
+1 FAMS @F32@
+1 BIRT
+2 DATE 1886
+2 PLAC Russia
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576511
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229430
+1 EVEN
+2 TYPE Arrival
+2 DATE 1907
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576511
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229430
+1 RESI
+2 DATE 1910
+2 PLAC Regstad, McHenry, North Dakota, USA
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229430
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576511
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 DEAT
+2 DATE 1923
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID -2606081:1030:13817046
+2 _APID 6398044002:1030:40321
+2 _APID 38423757790:1030:80757044
+2 _APID 40335269120:1030:75924135
+2 _APID 44129849770:1030:65023917
+2 _APID 142032631606:1030:86579678
+2 _APID 192025429194:1030:152846397
+2 _APID 270172828607:1030:110726287
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576511
+1 SOUR @S878721682@
+2 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+2 _APID 1,7884::170229430
+0 @I2006400213@ INDI
+1 NAME Henry S. /Shafer/
+2 GIVN Henry S.
+2 SURN Shafer
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F34@
+1 BIRT
+2 DATE 02/16/1866
+1 DEAT
+2 DATE 12/10/1943
+0 @I2006403096@ INDI
+1 NAME Eli /Shafer/
+2 GIVN Eli
+2 SURN Shafer
+1 SEX M
+1 FAMS @F12@
+1 BIRT
+2 DATE 04/16/1827
+1 DEAT
+2 DATE 10/20/1903
+0 @I2006403899@ INDI
+1 NAME Rebecca //
+2 GIVN Rebecca
+1 SEX F
+1 FAMC @F46@
+1 FAMS @F12@
+1 BIRT
+2 DATE 01/05/1838
+1 DEAT
+2 DATE 05/14/1906
+0 @I272037909019@ INDI
+1 NAME Lula Dorothy /Rosencrans/
+2 GIVN Lula Dorothy
+2 SURN Rosencrans
+1 SEX F
+1 FAMC @F36@
+1 FAMS @F18@
+1 BIRT
+2 DATE 29 Jul 1908
+1 DEAT
+2 DATE 11 Aug 1986
+2 PLAC Phoenix, Maricopa, Arizona, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 554251280:1030:16764359
+2 _APID 19589615580:1030:41186158
+2 _APID 30077956721:1030:61801560
+2 _APID 32086509501:1030:62293381
+2 _APID 36432268544:1030:80806483
+2 _APID 40335248298:1030:75924135
+2 _APID 48502921987:1030:84710169
+2 _APID 48578396274:1030:33296969
+2 _APID 190066548897:1030:108336215
+0 @I272037909072@ INDI
+1 NAME Tora Olsdatter Gjesme /Melhus/
+2 GIVN Tora Olsdatter Gjesme
+2 SURN Melhus
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE 1822
+1 DEAT
+2 DATE 1904
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005295078:1030:25116931
+2 _APID 5088553818:1030:27898520
+2 _APID 12509011793:1030:30201562
+2 _APID 20212517689:1030:18209844
+2 _APID 36432270150:1030:80806483
+2 _APID 190066548960:1030:108336215
+2 _APID 190085700814:1030:109590373
+2 _APID 330090243625:1030:105810641
+2 _APID 410001238197:1030:100193373
+2 _APID 410046438225:1030:55729839
+1 OBJE @O25@
+2 _PRIM Y
+0 @I272037909131@ INDI
+1 NAME Ole Oyesteinson /Berekvam/
+2 GIVN Ole Oyesteinson
+2 SURN Berekvam
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F11@
+1 BIRT
+2 DATE 21 Jul 1731
+2 PLAC Berekvam, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1814
+0 @I272037909163@ INDI
+1 NAME Øystein Olsen /Berekvam/
+2 GIVN Øystein Olsen
+2 SURN Berekvam
+1 SEX M
+1 FAMS @F31@
+1 BIRT
+2 DATE 1688
+2 PLAC Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1783
+0 @I272037909200@ INDI
+1 NAME Lucille /Dutenhafer/
+2 GIVN Lucille
+2 SURN Dutenhafer
+1 SEX F
+1 FAMS @F47@
+1 BIRT
+2 DATE 1850
+0 @I272037909227@ INDI
+1 NAME Maria Ann /Sanders/
+2 GIVN Maria Ann
+2 SURN Sanders
+1 SEX F
+1 FAMS @F34@
+1 BIRT
+2 DATE Sep 1877
+2 PLAC Illinois
+1 DEAT
+2 DATE 1942
+0 @I272037909249@ INDI
+1 NAME Brita Torsteinsdatter /Fretheim/
+2 GIVN Brita Torsteinsdatter
+2 SURN Fretheim
+1 SEX F
+1 FAMC @F26@
+1 FAMS @F7@
+1 BIRT
+2 DATE 23 Aug 1772
+2 PLAC Fretheim, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1857
+2 PLAC Berekvam, Aurland, Sogn og Fjordane, Norway
+0 @I272037909260@ INDI
+1 NAME Kari Oysteinsdatter /Flam/
+2 GIVN Kari Oysteinsdatter
+2 SURN Flam
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE 1788
+1 DEAT
+2 DATE 1832
+0 @I272037909280@ INDI
+1 NAME Torstein Guttormson /Fretheim/
+2 GIVN Torstein Guttormson
+2 SURN Fretheim
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F26@
+1 BIRT
+2 DATE 22 Mar 1744
+2 PLAC Fretheim, Aurland, Sogn og Fjord, Norway
+1 DEAT
+2 DATE 1831
+2 PLAC Fretheim, Aurland, Sogn og Fjordane, Norway
+0 @I272037909300@ INDI
+1 NAME Ingeborg Andersdatter /Tufte/
+2 GIVN Ingeborg Andersdatter
+2 SURN Tufte
+1 SEX F
+1 FAMC @F19@
+1 FAMS @F26@
+1 BIRT
+2 DATE 25 Jul 1744
+2 PLAC Tufte, Aurland, Sogn Og Fjordane, Norway
+1 DEAT
+2 DATE 1830
+2 PLAC Fretheim, Aurland, Sogn og Fjordane, Norway
+0 @I272037909323@ INDI
+1 NAME Frank /Rosencrans/
+2 GIVN Frank
+2 SURN Rosencrans
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F36@
+1 BIRT
+2 DATE 20 May 1875
+2 PLAC Wisconsin, United States
+1 DEAT
+2 DATE 25 May 1936
+2 PLAC Towner, Mchenry County, North Dakota
+0 @I272037909345@ INDI
+1 NAME Carrie Elizabeth /Mitchell/
+2 GIVN Carrie Elizabeth
+2 SURN Mitchell
+1 SEX F
+1 FAMC @F16@
+1 FAMS @F36@
+1 BIRT
+2 DATE 11 Mar 1877
+2 PLAC Minnesota
+1 DEAT
+2 DATE Apr 1961
+2 PLAC Rugby, North Dakota, USA
+0 @I272037909403@ INDI
+1 NAME Brita Olsdtr /Styvi/
+2 GIVN Brita Olsdtr
+2 SURN Styvi
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 DATE 1727
+2 PLAC Styvi, Aurland, Sogn og Fjord, Norway
+1 DEAT
+2 DATE 1821
+0 @I272037909435@ INDI
+1 NAME Anders Ivarsen /Tufte/
+2 GIVN Anders Ivarsen
+2 SURN Tufte
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 1713
+2 PLAC Norway
+1 DEAT
+2 DATE 1791
+2 PLAC Norway
+0 @I272037909470@ INDI
+1 NAME Martin /Rosencrans/
+2 GIVN Martin
+2 SURN Rosencrans
+2 SOUR @S878679587@
+3 PAGE Side served: Union; State served: New York; Enlistment date: 20 Jul 1861
+3 _APID 1,3737::6090325
+2 SOUR @S878721308@
+3 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+3 _APID 1,7602::68203137
+2 SOUR @S878679613@
+3 PAGE Year: 1860; Census Place: Delaware, Pike, Pennsylvania; Roll: M653_1176; Page: 770; Family History Library Film: 805176
+3 _APID 1,7667::4849754
+2 SOUR @S878721319@
+3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series Title: Iowa Marriage Records, 1880–1922; Record Type: Textual Records
+3 _APID 1,8823::1053606706
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F5@
+1 FAMS @F42@
+1 BIRT
+2 DATE 17 Sep 1830
+2 PLAC Dingmans Ferry, Pike, Pennsylvania, USA
+2 SOUR @S878721308@
+3 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+3 _APID 1,7602::68203137
+2 SOUR @S878679613@
+3 PAGE Year: 1860; Census Place: Delaware, Pike, Pennsylvania; Roll: M653_1176; Page: 770; Family History Library Film: 805176
+3 _APID 1,7667::4849754
+1 RESI
+2 DATE 1860
+2 PLAC Delaware, Pike, Pennsylvania, USA
+2 SOUR @S878679613@
+3 PAGE Year: 1860; Census Place: Delaware, Pike, Pennsylvania; Roll: M653_1176; Page: 770; Family History Library Film: 805176
+3 _APID 1,7667::4849754
+2 NOTE Residence Post Office: Dingmans Ferry
+1 EVEN
+2 TYPE Page 449 - A Record of the Commissioned Officers, Non-Commission
+2 DATE 1861
+2 PLAC United States
+2 SOUR @S878731101@
+3 PAGE Page 449 - A Record of the Commissioned Officers, Non-Commissioned Officers and Privates, of the Regiments Which Were Organized in the State of New York and Called Into the Service of the United States to Assist in Suppressing the Rebellion 1861
+3 DATA
+4 WWW https://www.fold3.com/image/312101204?terms=Martin%20Rosencrantz&amp;amp;xid=1945
+3 OBJE @O8@
+2 OBJE @O8@
+2 NOTE Published lists of commissioned officers, non-commissioned officers, and privates organized in New York during the U.S. Civil War.
+1 _MILT
+2 DATE 20 Jul 1861
+2 PLAC Newburgh, New York
+2 SOUR @S878679587@
+3 PAGE Side served: Union; State served: New York; Enlistment date: 20 Jul 1861
+3 _APID 1,3737::6090325
+1 RESI
+2 DATE 1900
+2 PLAC Township 156, McHenry, North Dakota, USA
+2 SOUR @S878721308@
+3 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+3 _APID 1,7602::68203137
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 DEAT
+2 DATE 20 Oct 1902
+2 PLAC Denbigh, McHenry, North Dakota, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 178248585:1030:3593500
+2 _APID 2016390313:1030:7001878
+2 _APID 19589615592:1030:41186158
+2 _APID 26656826676:1030:28130776
+2 _APID 34129469618:1030:65203352
+2 _APID 52001223310:1030:45752522
+2 _APID 150054987610:1030:104636195
+2 _APID 212013411230:1030:151481333
+2 _APID 300069936168:1030:83436292
+1 SOUR @S878679587@
+2 PAGE Side served: Union; State served: New York; Enlistment date: 20 Jul 1861
+2 _APID 1,3737::6090325
+1 SOUR @S878721308@
+2 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+2 _APID 1,7602::68203137
+1 SOUR @S878679613@
+2 PAGE Year: 1860; Census Place: Delaware, Pike, Pennsylvania; Roll: M653_1176; Page: 770; Family History Library Film: 805176
+2 _APID 1,7667::4849754
+1 SOUR @S878721319@
+2 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series Title: Iowa Marriage Records, 1880–1922; Record Type: Textual Records
+2 _APID 1,8823::1053606706
+1 SOUR @S878731101@
+2 PAGE Page 449 - A Record of the Commissioned Officers, Non-Commissioned Officers and Privates, of the Regiments Which Were Organized in the State of New York and Called Into the Service of the United States to Assist in Suppressing the Rebellion 1861
+2 DATA
+3 WWW https://www.fold3.com/image/312101204?terms=Martin%20Rosencrantz&amp;amp;xid=1945
+2 OBJE @O8@
+1 OBJE @O32@
+2 _PRIM Y
+1 OBJE @O8@
+1 OBJE @O27@
+1 OBJE @O20@
+0 @I272037909506@ INDI
+1 NAME Annie Margaret /Clifford/ Rosencrans
+2 GIVN Annie Margaret
+2 SURN Clifford
+2 NSFX Rosencrans
+2 SOUR @S878721308@
+3 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+3 _APID 1,7602::68203138
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 17 Mar 1832
+2 PLAC Sandyston, Sussex, New Jersey, USA
+2 SOUR @S878721308@
+3 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+3 _APID 1,7602::68203138
+1 RESI
+2 DATE 1900
+2 PLAC Township 156, McHenry, North Dakota, USA
+2 SOUR @S878721308@
+3 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+3 _APID 1,7602::68203138
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 DEAT
+2 DATE 17 Apr 1905
+2 PLAC Denbigh, McHenry, North Dakota, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 178249875:1030:3593500
+2 _APID 2016358793:1030:7001878
+2 _APID 19589614959:1030:41186158
+2 _APID 26656826675:1030:28130776
+2 _APID 34129469619:1030:65203352
+2 _APID 52001223306:1030:45752522
+2 _APID 150054987611:1030:104636195
+2 _APID 212013411238:1030:151481333
+2 _APID 300069936397:1030:83436292
+1 SOUR @S878721308@
+2 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+2 _APID 1,7602::68203138
+1 OBJE @O4@
+2 _PRIM Y
+0 @I272037909534@ INDI
+1 NAME Alonzo Augusta (Lou) /Mitchell/
+2 GIVN Alonzo Augusta (Lou)
+2 SURN Mitchell
+1 SEX M
+1 FAMS @F16@
+1 BIRT
+2 DATE 3 Feb 1848
+2 PLAC Ohio
+1 DEAT
+2 DATE 10 Sep 1924
+2 PLAC Wood Mountain, Saskatchewan, Canada
+1 OBJE @O29@
+2 _PRIM Y
+0 @I272037909555@ INDI
+1 NAME Amanda Rebecca /Jones/
+2 GIVN Amanda Rebecca
+2 SURN Jones
+1 SEX F
+1 FAMS @F16@
+1 BIRT
+2 DATE 19 Oct 1855
+2 PLAC Williams, Ohio, USA
+1 DEAT
+2 DATE 22 Jan 1916
+2 PLAC Glasgow, Valley, Montana, USA
+0 @I272037909639@ INDI
+1 NAME Guri Torsteinsdatter /Fretheim/
+2 GIVN Guri Torsteinsdatter
+2 SURN Fretheim
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 DATE 1721
+2 PLAC Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 26 Dec 1791
+2 PLAC Fretheim, Aurland, Sogn og Fjordane, Norway
+0 @I272037909661@ INDI
+1 NAME Guttorm Johannessen /Sletto/
+2 GIVN Guttorm Johannessen
+2 SURN Sletto
+1 SEX M
+1 FAMS @F2@
+1 BIRT
+2 DATE 1713
+2 PLAC Hol, Hallingdal, Buskerud, Norway
+1 DEAT
+2 DATE 28 Sep 1760
+2 PLAC Fretheim, Aurland, Sogn og Fjordane, Norway
+0 @I272037909679@ INDI
+1 NAME Anne Sjursdatter /Flåm/
+2 GIVN Anne Sjursdatter
+2 SURN Flåm
+1 SEX F
+1 FAMS @F49@
+1 BIRT
+2 DATE 1715
+2 PLAC Aurland, Sogn og Fjordane
+1 DEAT
+2 DATE 1787
+2 PLAC Norway
+0 @I272037909694@ INDI
+1 NAME Eli Sjursdtr /Indrelid/
+2 GIVN Eli Sjursdtr
+2 SURN Indrelid
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE 1701
+2 PLAC Aurland, Sogn og Fjordane
+1 DEAT
+2 DATE 1758
+0 @I272037911420@ INDI
+1 NAME Vernon Olav /Hjellum/
+2 GIVN Vernon Olav
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F18@
+1 BIRT
+2 DATE 18 Jul 1943
+2 PLAC Billings, Yellowstone, Montana, USA
+1 EVEN
+2 TYPE Vern Hjellum
+2 PLAC Mitchell, Davison, South Dakota, USA
+2 SOUR @S878731049@
+3 PAGE Vern Hjellum
+3 DATA
+4 WWW https://www.fold3.com/record/67275037-vern-hjellum?xid=1945
+3 OBJE @O14@
+2 OBJE @O14@
+1 DEAT
+2 DATE 22 May 2001
+2 PLAC Mitchell, Davison, South Dakota, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 19589615123:1030:41186158
+2 _APID 36432268548:1030:80806483
+1 SOUR @S878731049@
+2 PAGE Vern Hjellum
+2 DATA
+3 WWW https://www.fold3.com/record/67275037-vern-hjellum?xid=1945
+2 OBJE @O14@
+1 OBJE @O14@
+0 @I272037915215@ INDI
+1 NAME Jennifer Suzanne /Sidun/
+2 GIVN Jennifer Suzanne
+2 SURN Sidun
+2 SOUR @S878654048@
+3 _APID 1,1788::315527128
+1 SEX F
+1 FAMC @F48@
+1 FAMS @F25@
+1 BIRT
+2 DATE 04/20/1972
+2 SOUR @S878654048@
+3 _APID 1,1788::315527128
+1 RESI
+2 DATE 1990
+2 PLAC Mogadore, OH
+2 SOUR @S878654048@
+3 _APID 1,1788::315527128
+1 SOUR @S878654048@
+2 _APID 1,1788::315527128
+0 @I272037916939@ INDI
+1 NAME Kathleen Marie /Sidun/
+2 GIVN Kathleen Marie
+2 SURN Sidun
+2 SOUR @S878654048@
+3 _APID 1,1788::315504026
+1 SEX F
+1 FAMC @F24@
+1 FAMS @F48@
+1 BIRT
+2 DATE 8 Jan 53
+2 PLAC Erie, Erie, Pennsylvania, USA
+2 SOUR @S878654048@
+3 _APID 1,1788::315504026
+1 RESI
+2 DATE 1993
+2 PLAC Mogadore, OH
+2 SOUR @S878654048@
+3 _APID 1,1788::315504026
+1 SOUR @S878654048@
+2 _APID 1,1788::315504026
+0 @I272037917479@ INDI
+1 NAME Lydia /Gaumer/
+2 GIVN Lydia
+2 SURN Gaumer
+1 SEX F
+1 FAMS @F46@
+1 BIRT
+2 DATE 24 Jan 1803
+2 PLAC Southampton, Somerset, Pennsylvania, USA
+2 NOTE President-Jefferson
+1 DEAT
+2 DATE 28 July 1872
+2 PLAC Carroll, Indiana, USA
+2 NOTE Age: 69
+1 OBJE @O31@
+2 _PRIM Y
+0 @I272037918128@ INDI
+1 NAME Sjur Jonsen /Skiple/
+2 GIVN Sjur Jonsen
+2 SURN Skiple
+1 SEX M
+1 FAMC @F45@
+1 FAMS @F33@
+1 BIRT
+2 DATE 1793
+2 PLAC Norway
+1 DEAT
+2 DATE 1844
+2 PLAC Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005301096:1030:25116931
+2 _APID 36432271714:1030:80806483
+0 @I272037918129@ INDI
+1 NAME Maritha /Torbjornsdr/
+2 GIVN Maritha
+2 SURN Torbjornsdr
+1 SEX F
+1 FAMS @F33@
+1 BIRT
+2 DATE 1791
+1 DEAT
+2 DATE 1869
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005301147:1030:25116931
+2 _APID 36432271715:1030:80806483
+2 _APID 2005301147:1030:25116931
+2 _APID 36432271715:1030:80806483
+0 @I272037918130@ INDI
+1 NAME Gunjild /Skiple/
+2 GIVN Gunjild
+2 SURN Skiple
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1815
+2 PLAC Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068368:1030:25116931
+2 _APID 36432271974:1030:80806483
+2 _APID 2016068368:1030:25116931
+2 _APID 36432271974:1030:80806483
+0 @I272037918131@ INDI
+1 NAME Barbraa /Skiple/
+2 GIVN Barbraa
+2 SURN Skiple
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1816
+2 PLAC Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068399:1030:25116931
+2 _APID 36432271973:1030:80806483
+2 _APID 190066549419:1030:108336215
+0 @I272037918133@ INDI
+1 NAME Liva /Skiple/
+2 GIVN Liva
+2 SURN Skiple
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1818
+2 PLAC Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068412:1030:25116931
+2 _APID 36432271972:1030:80806483
+2 _APID 2016068412:1030:25116931
+2 _APID 36432271972:1030:80806483
+0 @I272037918134@ INDI
+1 NAME Torbjorn /Skiple/
+2 GIVN Torbjorn
+2 SURN Skiple
+1 SEX M
+1 FAMC @F33@
+1 BIRT
+2 DATE 1822
+2 PLAC Norway
+1 DEAT
+2 DATE 1854
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068458:1030:25116931
+2 _APID 36432271976:1030:80806483
+2 _APID 190066549421:1030:108336215
+2 _APID 2016068458:1030:25116931
+2 _APID 36432271976:1030:80806483
+2 _APID 190066549421:1030:108336215
+2 _APID 2016068458:1030:25116931
+2 _APID 36432271976:1030:80806483
+2 _APID 190066549421:1030:108336215
+0 @I272037918136@ INDI
+1 NAME Ranveig /Skiple/
+2 GIVN Ranveig
+2 SURN Skiple
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1822
+2 PLAC Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068431:1030:25116931
+2 _APID 36432271971:1030:80806483
+2 _APID 190066549422:1030:108336215
+0 @I272037918137@ INDI
+1 NAME Lars /Skiple/
+2 GIVN Lars
+2 SURN Skiple
+1 SEX M
+1 FAMC @F33@
+1 BIRT
+2 DATE 1826
+2 PLAC Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068476:1030:25116931
+2 _APID 36432271970:1030:80806483
+2 _APID 2016068476:1030:25116931
+2 _APID 36432271970:1030:80806483
+0 @I272037918140@ INDI
+1 NAME Marta /Skiple/
+2 GIVN Marta
+2 SURN Skiple
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1828
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068492:1030:25116931
+2 _APID 36432271969:1030:80806483
+2 _APID 190066549424:1030:108336215
+2 _APID 2016068492:1030:25116931
+2 _APID 36432271969:1030:80806483
+2 _APID 190066549424:1030:108336215
+2 _APID 2016068492:1030:25116931
+2 _APID 36432271969:1030:80806483
+2 _APID 190066549424:1030:108336215
+0 @I272037918141@ INDI
+1 NAME Ingebjorg /Skiple/
+2 GIVN Ingebjorg
+2 SURN Skiple
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1832
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068521:1030:25116931
+2 _APID 36432271968:1030:80806483
+0 @I272037918142@ INDI
+1 NAME Brita /Skiple/
+2 GIVN Brita
+2 SURN Skiple
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1835
+2 PLAC Norway
+1 DEAT
+2 DATE 1889
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2016068532:1030:25116931
+2 _APID 2016068532:1030:25116931
+0 @I272037918144@ INDI
+1 NAME Thora J /Hjellum/
+2 GIVN Thora J
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE 3 May 1851
+2 PLAC Norway
+1 DEAT
+2 DATE 1 Aug 1900
+2 PLAC North Dakota, United States
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 1629957190:1030:25116931
+2 _APID 5088486928:1030:27898520
+2 _APID 36432270151:1030:80806483
+2 _APID 190085700815:1030:109590373
+2 _APID 320016990584:1030:18209844
+2 _APID 330090243627:1030:105810641
+2 _APID 1629957190:1030:25116931
+2 _APID 5088486928:1030:27898520
+2 _APID 36432270151:1030:80806483
+2 _APID 190085700815:1030:109590373
+2 _APID 320016990584:1030:18209844
+2 _APID 330090243627:1030:105810641
+0 @I272037918147@ INDI
+1 NAME Ole /Hjellum/
+2 GIVN Ole
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F29@
+1 BIRT
+2 DATE 03 Jan 1857
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 27 May 1927
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005301419:1030:25116931
+2 _APID 36432270157:1030:80806483
+2 _APID 190085700818:1030:109590373
+2 _APID 320016990589:1030:18209844
+2 _APID 330090243631:1030:105810641
+0 @I272037918148@ INDI
+1 NAME Martha J. /Hjellum/
+2 GIVN Martha J.
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE 24 Nov 1848
+1 DEAT
+2 DATE 07 Apr 1914
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005301395:1030:25116931
+2 _APID 36432270154:1030:80806483
+2 _APID 190085700816:1030:109590373
+2 _APID 320016990586:1030:18209844
+2 _APID 330090243628:1030:105810641
+0 @I272037918149@ INDI
+1 NAME Sjur (Sever) /Hjellum/
+2 GIVN Sjur (Sever)
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE 15 Jan 1854
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005301404:1030:25116931
+2 _APID 36432270156:1030:80806483
+2 _APID 190085700817:1030:109590373
+2 _APID 320016990588:1030:18209844
+2 _APID 330090243630:1030:105810641
+0 @I272037918150@ INDI
+1 NAME Jensine /Kolve/
+2 GIVN Jensine
+2 SURN Kolve
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE 25 Aug 1859
+1 DEAT
+2 DATE 16 Oct 1898
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 13233382299:1030:25116931
+2 _APID 36432270161:1030:80806483
+2 _APID 190085700821:1030:109590373
+2 _APID 330090243633:1030:105810641
+2 _APID 410001238193:1030:100193373
+2 _APID 410042831523:1030:55729839
+2 _APID 13233382299:1030:25116931
+2 _APID 36432270161:1030:80806483
+2 _APID 190085700821:1030:109590373
+2 _APID 330090243633:1030:105810641
+2 _APID 410001238193:1030:100193373
+2 _APID 410042831523:1030:55729839
+0 @I272037918152@ INDI
+1 NAME John J. /Kolve/
+2 GIVN John J.
+2 SURN Kolve
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE 19 Apr 1862
+2 PLAC Rundalen, Voss, Hordaland, Norway (Kolve Farm)
+1 DEAT
+2 DATE 10 Aug 1928
+2 PLAC McHenry County North Dakota
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005301437:1030:25116931
+2 _APID 36432270160:1030:80806483
+2 _APID 190066548961:1030:108336215
+2 _APID 190085700819:1030:109590373
+2 _APID 330090243632:1030:105810641
+0 @I272037918156@ INDI
+1 NAME Ingeborg Jonsdatter /Kolve/
+2 GIVN Ingeborg Jonsdatter
+2 SURN Kolve
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE 07 Sep 1865
+1 DEAT
+2 DATE 21 Feb 1952
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 2005301456:1030:25116931
+2 _APID 36432270152:1030:80806483
+2 _APID 330090242698:1030:105810641
+2 _APID 2005301456:1030:25116931
+2 _APID 36432270152:1030:80806483
+2 _APID 330090242698:1030:105810641
+0 @I272037918885@ INDI
+1 NAME Andrew /Sidun/
+2 GIVN Andrew
+2 SURN Sidun
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600094
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221514
+2 SOUR @S878678670@
+3 _APID 1,61381::2956655
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F24@
+1 BIRT
+2 DATE abt 1914
+2 PLAC Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600094
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221514
+2 SOUR @S878678670@
+3 _APID 1,61381::2956655
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221514
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 1935
+2 PLAC McKeesport, Allegheny, Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600094
+1 RESI
+2 DATE 1940
+2 PLAC McKeesport, Allegheny, Pennsylvania, USA
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600094
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 21 Nov 1999
+2 PLAC Erie, Erie, Pennsylvania, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 420116037770:1030:2056828
+1 SOUR @S878678435@
+2 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+2 _APID 1,2442::19600094
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+2 _APID 1,6061::88221514
+1 SOUR @S878678670@
+2 _APID 1,61381::2956655
+0 @I272037918934@ INDI
+1 NAME Marie /Lesko/
+2 GIVN Marie
+2 SURN Lesko
+2 SOUR @S878678677@
+3 _APID 1,2469::158603026
+2 SOUR @S878678702@
+3 PAGE Number: 172-07-5647; Issue State: Pennsylvania; Issue Date: Before 1951
+3 _APID 1,3693::71828285
+2 SOUR @S878678652@
+3 _APID 1,60525::97419508
+2 SOUR @S878678655@
+3 _APID 1,60901::25106211
+2 SOUR @S878678670@
+3 _APID 1,61381::902956655
+1 NAME Marie A. /Lesko/
+2 GIVN Marie A.
+2 SURN Lesko
+1 SEX F
+1 FAMC @F15@
+1 FAMS @F24@
+1 BIRT
+2 DATE 18 May 1915
+2 PLAC McKeesport, Pennsylvania
+2 SOUR @S878678702@
+3 PAGE Number: 172-07-5647; Issue State: Pennsylvania; Issue Date: Before 1951
+3 _APID 1,3693::71828285
+2 SOUR @S878678652@
+3 _APID 1,60525::97419508
+2 SOUR @S878678655@
+3 _APID 1,60901::25106211
+2 SOUR @S878678670@
+3 _APID 1,61381::902956655
+1 RESI
+2 DATE 1954
+2 PLAC Erie, Pennsylvania, USA
+2 SOUR @S878678677@
+3 _APID 1,2469::158603026
+1 DEAT
+2 DATE 11 November 2003
+2 PLAC Erie, Erie, Pennsylvania, USA
+2 SOUR @S878678702@
+3 PAGE Number: 172-07-5647; Issue State: Pennsylvania; Issue Date: Before 1951
+3 _APID 1,3693::71828285
+2 SOUR @S878678652@
+3 _APID 1,60525::97419508
+2 SOUR @S878678655@
+3 _APID 1,60901::25106211
+1 BURI
+2 PLAC Springboro, Crawford County, Pennsylvania, United States of America
+2 SOUR @S878678652@
+3 _APID 1,60525::97419508
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 420116044144:1030:2056828
+1 SOUR @S878678677@
+2 _APID 1,2469::158603026
+1 SOUR @S878678702@
+2 PAGE Number: 172-07-5647; Issue State: Pennsylvania; Issue Date: Before 1951
+2 _APID 1,3693::71828285
+1 SOUR @S878678652@
+2 _APID 1,60525::97419508
+1 SOUR @S878678655@
+2 _APID 1,60901::25106211
+1 SOUR @S878678670@
+2 _APID 1,61381::902956655
+1 OBJE @O12@
+2 _PRIM Y
+0 @I272038080189@ INDI
+1 NAME John /Sidun/
+2 GIVN John
+2 SURN Sidun
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600088
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221510
+1 SEX M
+1 FAMS @F14@
+1 BIRT
+2 DATE abt 1878
+2 PLAC Austria
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600088
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221510
+1 EVEN
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221510
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221510
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 1935
+2 PLAC McKeesport, Allegheny, Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600088
+1 RESI
+2 DATE 1940
+2 PLAC McKeesport, Allegheny, Pennsylvania, USA
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600088
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 SOUR @S878678435@
+2 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+2 _APID 1,2442::19600088
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+2 _APID 1,6061::88221510
+0 @I272038080273@ INDI
+1 NAME Mary /Glagolich/
+2 GIVN Mary
+2 SURN Glagolich
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600090
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221511
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: McKeesport, Allegheny, Pennsylvania; Page: 19B; Enumeration District: 0690; FHL microfilm: 2341701
+3 _APID 1,6224::48240825
+1 SEX F
+1 FAMS @F14@
+1 BIRT
+2 DATE abt 1878
+2 PLAC Czechoslovakia
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600090
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221511
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: McKeesport, Allegheny, Pennsylvania; Page: 19B; Enumeration District: 0690; FHL microfilm: 2341701
+3 _APID 1,6224::48240825
+1 EVEN
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221511
+1 EVEN
+2 TYPE Arrival
+2 DATE 1906
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: McKeesport, Allegheny, Pennsylvania; Page: 19B; Enumeration District: 0690; FHL microfilm: 2341701
+3 _APID 1,6224::48240825
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221511
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 1930
+2 PLAC McKeesport, Allegheny, Pennsylvania, USA
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: McKeesport, Allegheny, Pennsylvania; Page: 19B; Enumeration District: 0690; FHL microfilm: 2341701
+3 _APID 1,6224::48240825
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1935
+2 PLAC McKeesport, Allegheny, Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600090
+1 RESI
+2 DATE 1940
+2 PLAC McKeesport, Allegheny, Pennsylvania, USA
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600090
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 SOUR @S878678435@
+2 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+2 _APID 1,2442::19600090
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+2 _APID 1,6061::88221511
+1 SOUR @S878678328@
+2 PAGE Year: 1930; Census Place: McKeesport, Allegheny, Pennsylvania; Page: 19B; Enumeration District: 0690; FHL microfilm: 2341701
+2 _APID 1,6224::48240825
+0 @I272038082260@ INDI
+1 NAME Michael /Sidun/
+2 GIVN Michael
+2 SURN Sidun
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600092
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1908
+2 PLAC Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600092
+1 RESI
+2 DATE 1935
+2 PLAC McKeesport, Allegheny, Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600092
+1 RESI
+2 DATE 1940
+2 PLAC McKeesport, Allegheny, Pennsylvania, USA
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600092
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 SOUR @S878678435@
+2 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+2 _APID 1,2442::19600092
+0 @I272038082263@ INDI
+1 NAME Anna /Sidun/
+2 GIVN Anna
+2 SURN Sidun
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600096
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221518
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1917
+2 PLAC Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600096
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221518
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221518
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 1935
+2 PLAC McKeesport, Allegheny, Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600096
+1 RESI
+2 DATE 1940
+2 PLAC McKeesport, Allegheny, Pennsylvania, USA
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600096
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 SOUR @S878678435@
+2 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+2 _APID 1,2442::19600096
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+2 _APID 1,6061::88221518
+0 @I272038082265@ INDI
+1 NAME Helen /Sidun/
+2 GIVN Helen
+2 SURN Sidun
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600098
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1920
+2 PLAC Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600098
+1 RESI
+2 DATE 1935
+2 PLAC McKeesport, Allegheny, Pennsylvania
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600098
+1 RESI
+2 DATE 1940
+2 PLAC McKeesport, Allegheny, Pennsylvania, USA
+2 SOUR @S878678435@
+3 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+3 _APID 1,2442::19600098
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 SOUR @S878678435@
+2 PAGE Year: 1940; Census Place: McKeesport, Allegheny, Pennsylvania; Roll: m-t0627-03409; Page: 10B; Enumeration District: 2-315
+2 _APID 1,2442::19600098
+0 @I272038082605@ INDI
+1 NAME Mike /Sidun/
+2 GIVN Mike
+2 SURN Sidun
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221512
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1907
+2 PLAC Pennsylvania
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221512
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221512
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+2 _APID 1,6061::88221512
+0 @I272038082606@ INDI
+1 NAME John /Sidun/
+2 GIVN John
+2 SURN Sidun
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221513
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1910
+2 PLAC Pennsylvania
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221513
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+3 _APID 1,6061::88221513
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11A; Enumeration District: 209
+2 _APID 1,6061::88221513
+0 @I272038082607@ INDI
+1 NAME George /Sidun/
+2 GIVN George
+2 SURN Sidun
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221515
+1 SEX M
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1915
+2 PLAC Pennsylvania
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221515
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221515
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+2 _APID 1,6061::88221515
+0 @I272038082609@ INDI
+1 NAME Mary /Sidun/
+2 GIVN Mary
+2 SURN Sidun
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221516
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1911
+2 PLAC Pennsylvania
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221516
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221516
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+2 _APID 1,6061::88221516
+0 @I272038082610@ INDI
+1 NAME Julia /Sidun/
+2 GIVN Julia
+2 SURN Sidun
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221517
+1 SEX F
+1 FAMC @F14@
+1 BIRT
+2 DATE abt 1913
+2 PLAC Pennsylvania
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221517
+1 RESI
+2 DATE 1920
+2 PLAC McKeesport Ward 6, Allegheny, Pennsylvania, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+3 _APID 1,6061::88221517
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: McKeesport Ward 6, Allegheny, Pennsylvania; Roll: T625_1514; Page: 11B; Enumeration District: 209
+2 _APID 1,6061::88221517
+0 @I272038082962@ INDI
+1 NAME Anna /Kerekes/
+2 GIVN Anna
+2 SURN Kerekes
+1 SEX F
+1 FAMS @F15@
+0 @I272038086317@ INDI
+1 NAME Charles /Lesko/
+2 GIVN Charles
+2 SURN Lesko
+1 SEX M
+1 FAMS @F15@
+0 @I272038087427@ INDI
+1 NAME James Colba /Rosencrans/
+2 GIVN James Colba
+2 SURN Rosencrans
+1 SEX M
+1 FAMC @F30@
+1 FAMS @F1@
+1 BIRT
+2 DATE 6 Oct 1805
+2 PLAC Dingmans Ferry, Pike, Pennsylvania, United States
+1 DEAT
+2 DATE 20 May 1869
+2 PLAC St Charles, Saginaw, Michigan, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 19589615682:1030:41186158
+2 _APID 25554979943:1030:7001878
+2 _APID 34129469941:1030:65203352
+2 _APID 300069968382:1030:83436292
+0 @I272038087428@ INDI
+1 NAME Sarah Steele /Cartwright/
+2 GIVN Sarah Steele
+2 SURN Cartwright
+1 SEX F
+1 FAMC @F21@
+1 FAMS @F1@
+1 BIRT
+2 DATE 28 Dec 1815
+2 PLAC Dingmans Ferry, Pike, Pennsylvania, USA
+1 DEAT
+2 DATE 18 Dec 1905
+2 PLAC St Charles, Saginaw, Michigan, United States
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 19589614968:1030:41186158
+2 _APID 300069968498:1030:83436292
+2 _APID 19589614968:1030:41186158
+2 _APID 300069968498:1030:83436292
+0 @I272038087931@ INDI
+1 NAME Solomon /Rosencrans/
+2 GIVN Solomon
+2 SURN Rosencrans
+1 SEX M
+1 FAMS @F30@
+1 BIRT
+2 DATE 13 JAN 1763
+2 PLAC Upper Smith, Washington, Pennsylvania, USA
+1 DEAT
+2 DATE 25 APR 1832
+2 PLAC Illinois, USA
+0 @I272038087976@ INDI
+1 NAME Cattrina /Van Garden/
+2 GIVN Cattrina
+2 SURN Van Garden
+1 SEX F
+1 FAMS @F30@
+1 BIRT
+2 DATE 1767
+2 PLAC Lehman, Pike, Pennsylvania, USA
+1 DEAT
+2 DATE 1810
+2 PLAC Lehman, Pike, Pennsylvania, USA
+0 @I272038088402@ INDI
+1 NAME Cornelius W. /Courtright/
+2 GIVN Cornelius W.
+2 SURN Courtright
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F21@
+1 BIRT
+2 DATE abt 1794
+2 PLAC Delaware Twnshp., Pike, Pennsylvania
+1 DEAT
+2 DATE 18 Jul 1871 
+2 PLAC Dingmans Ferry, Pike, Pennsylvania, USA
+0 @I272038088486@ INDI
+1 NAME Hannah R /Steel/
+2 GIVN Hannah R
+2 SURN Steel
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F21@
+1 BIRT
+2 DATE 12 Mar 1793
+2 PLAC Delaware, Pike, Pennsylvania, United States
+1 DEAT
+2 DATE 2 Jun 1876
+2 PLAC Dingman's Ferry, Pike, Pa
+1 OBJE @O24@
+2 _PRIM Y
+0 @I272038088588@ INDI
+1 NAME Peter /Cortrite\Courtright/
+2 GIVN Peter
+2 SURN Cortrite\Courtright
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F8@
+1 BIRT
+2 DATE 29 Oct 1768
+2 PLAC Pike County, Pennsylvania, USA
+1 DEAT
+2 DATE 13 Dec 1861
+2 PLAC Oaks Corners, Ontario County, New York, USA
+0 @I272038088635@ INDI
+1 NAME Elizabeth /Heator/
+2 GIVN Elizabeth
+2 SURN Heator
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE 15 Aug 1768
+2 PLAC Branchville, Sussex, New Jersey, USA
+1 DEAT
+2 DATE 15 Oct 1847
+2 PLAC Dickersonville, New York
+0 @I272038092963@ INDI
+1 NAME Hendrick "HENRY" /STIEL/ Sr.
+2 GIVN Hendrick "HENRY"
+2 SURN STIEL
+2 NSFX Sr.
+1 SEX M
+1 FAMC @F44@
+1 FAMS @F27@
+1 BIRT
+2 DATE 9 June 1755*
+2 PLAC Bushkill, Northampton (nowPike), Pennsylvania, British America
+1 DEAT
+2 DATE 20 Apr 1820
+2 PLAC Delaware Twp, Pike, Pennsylvania
+1 OBJE @O13@
+2 _PRIM Y
+0 @I272038093035@ INDI
+1 NAME Ellener (Ellanora) /Van Gorden /
+2 GIVN Ellener (Ellanora)
+2 SURN Van Gorden 
+1 SEX F
+1 FAMC @F38@
+1 FAMS @F27@
+1 BIRT
+2 DATE 22 Jan 1758 baptism
+2 PLAC Kingston, Ulster, New York
+1 DEAT
+2 DATE AFT 1821
+2 PLAC Delaware Twp, Pike, Pennsylvania*
+0 @I272038093092@ INDI
+1 NAME Henry /Stihl/
+2 GIVN Henry
+2 SURN Stihl
+1 SEX M
+1 FAMS @F44@
+1 BIRT
+2 DATE 1733?
+1 DEAT
+2 DATE 27 Feb 1767
+2 PLAC Pennsylvania (Abt. 1763??)
+0 @I272038093136@ INDI
+1 NAME Gysbert "Gilbert" /Van Gorden/
+2 GIVN Gysbert "Gilbert"
+2 SURN Van Gorden
+2 SOUR @S878680075@
+3 _APID 1,2591::8814
+1 SEX M
+1 FAMS @F38@
+1 FAMS @F22@
+1 BIRT
+2 DATE 10 Jan 1720 baptism*
+2 PLAC Rochester Twp, Ulster, New York*
+1 RESI
+2 PLAC Pennsylvania, United States
+2 SOUR @S878680075@
+3 _APID 1,2591::8814
+1 DEAT
+2 DATE 3 Dec 1804
+2 PLAC Delaware Twp, Wayne, Pennsylvania*
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 6435664392:1030:44212400
+2 _APID 29129496175:1030:37247549
+2 _APID 34226495137:1030:69455092
+2 _APID 40572833977:1030:72615725
+2 _APID 120075209429:1030:103836988
+2 _APID 290028736121:1030:18125453
+2 _APID 400135955680:1030:115043654
+2 _APID 6435664392:1030:44212400
+2 _APID 29129496175:1030:37247549
+2 _APID 34226495137:1030:69455092
+2 _APID 40572833977:1030:72615725
+2 _APID 120075209429:1030:103836988
+2 _APID 290028736121:1030:18125453
+2 _APID 400135955680:1030:115043654
+1 SOUR @S878680075@
+2 _APID 1,2591::8814
+1 OBJE @O26@
+2 _PRIM Y
+0 @I272038093158@ INDI
+1 NAME Rachel /Kortright Van Gorden/
+2 GIVN Rachel
+2 SURN Kortright Van Gorden
+1 SEX F
+1 FAMS @F38@
+1 BIRT
+2 DATE 10 Jan 1720 baptism
+2 PLAC Rochester Twp, Ulster, New York
+2 NOTE a.k.a. Kortregt, Courtright, Kortright, Kortrecht dating back to Van Kortrijk ancestors
+1 DEAT
+2 DATE Unk*
+2 PLAC Deerpark, Orange, New York*
+2 NOTE Between 1764-1791 -- after 1765 -- if after about 1778, likely to have died in Delaware Twp., Pa., with possible burial in Delaware Cemetery, Dingmans Ferry, Pa.??
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 6435664393:1030:44212400
+2 _APID 29129496195:1030:37247549
+2 _APID 34226495182:1030:69455092
+2 _APID 40572833978:1030:72615725
+2 _APID 120075209431:1030:103836988
+2 _APID 290028736124:1030:18125453
+2 _APID 400135955679:1030:115043654
+2 _APID 6435664393:1030:44212400
+2 _APID 29129496195:1030:37247549
+2 _APID 34226495182:1030:69455092
+2 _APID 40572833978:1030:72615725
+2 _APID 120075209431:1030:103836988
+2 _APID 290028736124:1030:18125453
+2 _APID 400135955679:1030:115043654
+1 OBJE @O3@
+2 _PRIM Y
+0 @I272038093478@ INDI
+1 NAME Lydia /Kermer Van Garden/
+2 GIVN Lydia
+2 SURN Kermer Van Garden
+1 SEX F
+1 FAMS @F22@
+1 BIRT
+2 DATE 30 May 1738
+2 PLAC Machackemeck, Orange, New York
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 290028737613:1030:18125453
+0 @I272038093891@ INDI
+1 NAME Jonas /Kortright/
+2 GIVN Jonas
+2 SURN Kortright
+1 SEX M
+1 FAMS @F43@
+1 BIRT
+2 DATE 19 Oct 1746
+2 PLAC Deerpark, Orange, New York, USA
+1 DEAT
+2 DATE Aft. 1776
+2 PLAC Unknown
+0 @I272038375679@ INDI
+1 NAME Edward /Rosecvans/
+2 GIVN Edward
+2 SURN Rosecvans
+2 SOUR @S878721319@
+3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series Title: Iowa Marriage Records, 1880–1922; Record Type: Textual Records
+3 _APID 1,8823::3606706
+1 SEX M
+1 FAMC @F42@
+1 BIRT
+2 DATE abt 1879
+2 PLAC Minnesota
+2 SOUR @S878721319@
+3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series Title: Iowa Marriage Records, 1880–1922; Record Type: Textual Records
+3 _APID 1,8823::3606706
+1 SOUR @S878721319@
+2 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series Title: Iowa Marriage Records, 1880–1922; Record Type: Textual Records
+2 _APID 1,8823::3606706
+0 @I272038380885@ INDI
+1 NAME John /Wormsbecker/
+2 GIVN John
+2 SURN Wormsbecker
+2 SOUR @S878678655@
+3 _APID 1,60901::612708922
+1 SEX M
+1 FAMS @F28@
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 38440664444:1030:80757044
+2 _APID 40335272663:1030:75924135
+2 _APID 44141604909:1030:65023917
+2 _APID 192025431710:1030:152846397
+2 _APID 38440664444:1030:80757044
+2 _APID 40335272663:1030:75924135
+2 _APID 44141604909:1030:65023917
+2 _APID 192025431710:1030:152846397
+1 SOUR @S878678655@
+2 _APID 1,60901::612708922
+0 @I272038380887@ INDI
+1 NAME Margaret /Dodd/
+2 GIVN Margaret
+2 SURN Dodd
+1 NAME Margaret /Kessler/
+2 GIVN Margaret
+2 SURN Kessler
+2 SOUR @S878678655@
+3 _APID 1,60901::762708922
+1 SEX F
+1 FAMS @F28@
+1 DEAT
+2 DATE unknown
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 40335272723:1030:75924135
+2 _APID 192025431712:1030:152846397
+2 _APID 40335272723:1030:75924135
+2 _APID 192025431712:1030:152846397
+1 SOUR @S878678655@
+2 _APID 1,60901::762708922
+0 @I272038380894@ INDI
+1 NAME Ludwig A. /Wormsbecker/
+2 GIVN Ludwig A.
+2 SURN Wormsbecker
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576512
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 15 Apr 1912
+2 PLAC North Dakota
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576512
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576512
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 DEAT
+2 DATE 18 Feb 1999
+2 PLAC Wolf Creek, Lewis and Clark, Montana, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 38440662160:1030:80757044
+2 _APID 38440663099:1030:80757044
+2 _APID 40335271280:1030:75924135
+2 _APID 44129995742:1030:65023917
+2 _APID 142032631607:1030:86579678
+2 _APID 192025429195:1030:152846397
+2 _APID 270172828609:1030:110726287
+2 _APID 38440662160:1030:80757044
+2 _APID 38440663099:1030:80757044
+2 _APID 40335271280:1030:75924135
+2 _APID 44129995742:1030:65023917
+2 _APID 142032631607:1030:86579678
+2 _APID 192025429195:1030:152846397
+2 _APID 270172828609:1030:110726287
+2 _APID 38440662160:1030:80757044
+2 _APID 38440663099:1030:80757044
+2 _APID 40335271280:1030:75924135
+2 _APID 44129995742:1030:65023917
+2 _APID 142032631607:1030:86579678
+2 _APID 192025429195:1030:152846397
+2 _APID 270172828609:1030:110726287
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576512
+0 @I272038380897@ INDI
+1 NAME Maria Efa /Wormsbecker/
+2 GIVN Maria Efa
+2 SURN Wormsbecker
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576515
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE abt 1909
+2 PLAC North Dakota
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576515
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576515
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 DEAT
+2 DATE 26 September 1970
+2 PLAC Conrad, Pondera County, Montana, United States of America
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 38440662937:1030:80757044
+2 _APID 38440662938:1030:80757044
+2 _APID 40335271063:1030:75924135
+2 _APID 40426935786:1030:75924135
+2 _APID 44129995745:1030:65023917
+2 _APID 142032631477:1030:86579678
+2 _APID 192025425644:1030:152846397
+2 _APID 192025437621:1030:152846397
+2 _APID 270172821734:1030:110726287
+2 _APID 270172829200:1030:110726287
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576515
+0 @I272038380902@ INDI
+1 NAME Angeline Laverne /Wormsbecker/
+2 GIVN Angeline Laverne
+2 SURN Wormsbecker
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648581
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 4 Dec 1920
+2 PLAC Minot North, Ward, North Dakota, United States
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648581
+1 RESI
+2 DATE 1930
+2 PLAC Bantry, McHenry, North Dakota, USA
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648581
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 7 Jun 1966
+2 PLAC Yakima, Yakima, Washington, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 6398042954:1030:40321
+2 _APID 38440664470:1030:80757044
+2 _APID 40335271816:1030:75924135
+2 _APID 44129849509:1030:65023917
+2 _APID 192025440395:1030:152846397
+1 SOUR @S878678328@
+2 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+2 _APID 1,6224::108648581
+0 @I272038380903@ INDI
+1 NAME Barbara /Wormsbecker/
+2 GIVN Barbara
+2 SURN Wormsbecker
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576517
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648582
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE abt 1915
+2 PLAC North Dakota
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576517
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648582
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576517
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 1930
+2 PLAC Bantry, McHenry, North Dakota, USA
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648582
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 14 Apr 2000
+2 PLAC Bend, Deschutes, Oregon, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 142032631609:1030:86579678
+2 _APID 192025429197:1030:152846397
+2 _APID 270172828614:1030:110726287
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576517
+1 SOUR @S878678328@
+2 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+2 _APID 1,6224::108648582
+0 @I272038380906@ INDI
+1 NAME Casper /Wormsbecker/
+2 GIVN Casper
+2 SURN Wormsbecker
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576514
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648585
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE abt 1919
+2 PLAC North Dakota
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576514
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648585
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576514
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 1930
+2 PLAC Bantry, McHenry, North Dakota, USA
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648585
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 01 Nov 1938
+2 PLAC Montana, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 38440662162:1030:80757044
+2 _APID 40335271452:1030:75924135
+2 _APID 44129995746:1030:65023917
+2 _APID 192025432398:1030:152846397
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576514
+1 SOUR @S878678328@
+2 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+2 _APID 1,6224::108648585
+0 @I272038380909@ INDI
+1 NAME Jacob /Wormsbecker/
+2 GIVN Jacob
+2 SURN Wormsbecker
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576513
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648551
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE abt 1917
+2 PLAC North Dakota
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576513
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648551
+1 RESI
+2 DATE 1920
+2 PLAC Berwick, McHenry, North Dakota, USA
+2 SOUR @S878678258@
+3 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+3 _APID 1,6061::107576513
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 1930
+2 PLAC Bantry, McHenry, North Dakota, USA
+2 SOUR @S878678328@
+3 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+3 _APID 1,6224::108648551
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 2012
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 142032631608:1030:86579678
+2 _APID 150116202830:1030:65023917
+2 _APID 270172828610:1030:110726287
+2 _APID 142032631608:1030:86579678
+2 _APID 150116202830:1030:65023917
+2 _APID 270172828610:1030:110726287
+1 SOUR @S878678258@
+2 PAGE Year: 1920; Census Place: Berwick, McHenry, North Dakota; Roll: T625_1336; Page: 6A; Enumeration District: 166
+2 _APID 1,6061::107576513
+1 SOUR @S878678328@
+2 PAGE Year: 1930; Census Place: Bantry, McHenry, North Dakota; Page: 1A; Enumeration District: 0005; FHL microfilm: 2341471
+2 _APID 1,6224::108648551
+0 @I272038380914@ INDI
+1 NAME Katherine /Wormsbecker/
+2 GIVN Katherine
+2 SURN Wormsbecker
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229432
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 1909
+2 PLAC North Dakota, USA
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229432
+1 RESI
+2 DATE 1910
+2 PLAC Regstad, McHenry, North Dakota, USA
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229432
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 44129995744:1030:65023917
+2 _APID 44129995744:1030:65023917
+1 SOUR @S878721682@
+2 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+2 _APID 1,7884::170229432
+0 @I272038381270@ INDI
+1 NAME Miaagt /Warmsbecher/
+2 GIVN Miaagt
+2 SURN Warmsbecher
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229431
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE abt 1909
+2 PLAC North Dakota
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229431
+1 RESI
+2 DATE 1910
+2 PLAC Regstad, McHenry, North Dakota, USA
+2 SOUR @S878721682@
+3 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+3 _APID 1,7884::170229431
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 SOUR @S878721682@
+2 PAGE Year: 1910; Census Place: Regstad, McHenry, North Dakota; Roll: T624_1143; Page: 2B; Enumeration District: 0069; FHL microfilm: 1375156
+2 _APID 1,7884::170229431
+0 @I272038382344@ INDI
+1 NAME Mary /Branden/
+2 GIVN Mary
+2 SURN Branden
+2 SOUR @S878721806@
+3 _APID 1,60062::979220
+1 SEX F
+1 FAMS @F41@
+1 SOUR @S878721806@
+2 _APID 1,60062::979220
+0 @I272038382345@ INDI
+1 NAME Ludwig A. /Wormsbecker/
+2 GIVN Ludwig A.
+2 SURN Wormsbecker
+2 SOUR @S878721806@
+3 _APID 1,60062::979218
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE 1912
+2 SOUR @S878721806@
+3 _APID 1,60062::979218
+1 SOUR @S878721806@
+2 _APID 1,60062::979218
+0 @I272038449135@ INDI
+1 NAME Jon /Hjellum/
+2 GIVN Jon
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 19 Apr 1897
+2 PLAC Undredal, Aurland, Norway
+1 DEAT
+2 DATE 08 Jun 1981
+2 PLAC Cle Elum, Washington
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID -2138835359:1030:45010
+2 _APID -1865257413:1030:2068522
+2 _APID -936193717:1030:8528145
+2 _APID 12508776901:1030:30201562
+2 _APID 32086509489:1030:62293381
+2 _APID 36432268535:1030:80806483
+2 _APID 40335372545:1030:75924135
+2 _APID 48502921975:1030:84710169
+2 _APID 190066548885:1030:108336215
+2 _APID -2138835359:1030:45010
+2 _APID -1865257413:1030:2068522
+2 _APID -936193717:1030:8528145
+2 _APID 12508776901:1030:30201562
+2 _APID 32086509489:1030:62293381
+2 _APID 36432268535:1030:80806483
+2 _APID 40335372545:1030:75924135
+2 _APID 48502921975:1030:84710169
+2 _APID 190066548885:1030:108336215
+2 _APID -2138835359:1030:45010
+2 _APID -1865257413:1030:2068522
+2 _APID -936193717:1030:8528145
+2 _APID 12508776901:1030:30201562
+2 _APID 32086509489:1030:62293381
+2 _APID 36432268535:1030:80806483
+2 _APID 40335372545:1030:75924135
+2 _APID 48502921975:1030:84710169
+2 _APID 190066548885:1030:108336215
+0 @I272038449137@ INDI
+1 NAME Per /Hjellum/
+2 GIVN Per
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 19 Apr 1897
+2 PLAC Hjellum Farm Undredal Norway
+1 DEAT
+2 DATE 01 Aug 1967
+2 PLAC Hospital Grafton North Dakota
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 12509011796:1030:30201562
+2 _APID 32086509496:1030:62293381
+2 _APID 36432268537:1030:80806483
+2 _APID 40335372546:1030:75924135
+2 _APID 48502921982:1030:84710169
+2 _APID 190066548892:1030:108336215
+2 _APID 12509011796:1030:30201562
+2 _APID 32086509496:1030:62293381
+2 _APID 36432268537:1030:80806483
+2 _APID 40335372546:1030:75924135
+2 _APID 48502921982:1030:84710169
+2 _APID 190066548892:1030:108336215
+0 @I272038449138@ INDI
+1 NAME Sigurd /Hjellum/
+2 GIVN Sigurd
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 01 Jun 1901
+2 PLAC Norway
+1 DEAT
+2 DATE 1984
+2 PLAC Norway
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 12509011801:1030:30201562
+2 _APID 32086509498:1030:62293381
+2 _APID 36432268538:1030:80806483
+2 _APID 40335372547:1030:75924135
+2 _APID 48502921984:1030:84710169
+2 _APID 12509011801:1030:30201562
+2 _APID 32086509498:1030:62293381
+2 _APID 36432268538:1030:80806483
+2 _APID 40335372547:1030:75924135
+2 _APID 48502921984:1030:84710169
+0 @I272038449140@ INDI
+1 NAME Tora /Hjellum/
+2 GIVN Tora
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 15 Jun 1898
+1 DEAT
+2 DATE 1969
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 32086509497:1030:62293381
+2 _APID 36432268539:1030:80806483
+2 _APID 48502921983:1030:84710169
+2 _APID 32086509497:1030:62293381
+2 _APID 36432268539:1030:80806483
+2 _APID 48502921983:1030:84710169
+0 @I272038449142@ INDI
+1 NAME Magnus /Hjellum/
+2 GIVN Magnus
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 25 Aug 1908
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 32086509499:1030:62293381
+2 _APID 36432268542:1030:80806483
+2 _APID 40335373281:1030:75924135
+2 _APID 190066548895:1030:108336215
+0 @I272038449143@ INDI
+1 NAME Margit /Hjellum/
+2 GIVN Margit
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F23@
+1 BIRT
+2 DATE 22 Apr 1910
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 32086509500:1030:62293381
+2 _APID 36432268543:1030:80806483
+2 _APID 40335373282:1030:75924135
+0 @I272038449145@ INDI
+1 NAME Allan D /Hjellum/
+2 GIVN Allan D
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F18@
+1 BIRT
+2 DATE 28 Oct 1930
+2 PLAC Billings, Yellowstone, Montana, USA
+1 EVEN
+2 TYPE Page 86 - Muster Rolls and Personnel Diaries of US Navy Ships, S
+2 DATE 1952
+2 PLAC United States
+2 SOUR @S878733531@
+3 PAGE Page 86 - Muster Rolls and Personnel Diaries of US Navy Ships, Stations, and Other Naval Activities, 1949-1971 1952
+3 DATA
+4 WWW https://www.fold3.com/image/312601300?terms=hjellum&amp;amp;xid=1945
+3 OBJE @O9@
+2 OBJE @O9@
+2 NOTE Muster rolls of U.S. Navy ships, stations, and other naval activities, 1949-1971.
+1 DEAT
+2 DATE 25 Oct 1996
+2 PLAC Littleton, Jefferson, Colorado, USA
+1 SOUR @S878655011@
+2 PAGE Ancestry Family Tree
+2 _APID 19589615111:1030:41186158
+2 _APID 32086509503:1030:62293381
+2 _APID 36432268546:1030:80806483
+2 _APID 190066548899:1030:108336215
+2 _APID 19589615111:1030:41186158
+2 _APID 32086509503:1030:62293381
+2 _APID 36432268546:1030:80806483
+2 _APID 190066548899:1030:108336215
+1 SOUR @S878733531@
+2 PAGE Page 86 - Muster Rolls and Personnel Diaries of US Navy Ships, Stations, and Other Naval Activities, 1949-1971 1952
+2 DATA
+3 WWW https://www.fold3.com/image/312601300?terms=hjellum&amp;amp;xid=1945
+2 OBJE @O9@
+1 OBJE @O9@
+0 @I272038521583@ INDI
+1 NAME Joni /Hjellum/
+2 GIVN Joni
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F20@
+1 BIRT
+2 DATE 01/18/1956
+2 PLAC Rugby, Pierce, North Dakota, USA
+0 @I272040275763@ INDI
+1 NAME Olaf /Hjellum/
+2 GIVN Olaf
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F29@
+1 FAMS @F37@
+1 BIRT
+2 DATE 1896
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1971
+2 PLAC Aurland, Sogn og Fjordane, Norway
+0 @I272040275914@ INDI
+1 NAME Brita Larsdatter /Underdal/
+2 GIVN Brita Larsdatter
+2 SURN Underdal
+1 SEX F
+1 FAMS @F29@
+1 BIRT
+2 DATE 1854
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1931
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040275953@ INDI
+1 NAME Jon /Hjellum/
+2 GIVN Jon
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 1880
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040275980@ INDI
+1 NAME Lars /Hjellum/
+2 GIVN Lars
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 1882
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040276024@ INDI
+1 NAME Sjur /Hjellum/
+2 GIVN Sjur
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 1883
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040276046@ INDI
+1 NAME Ingeborg /Hjellum/
+2 GIVN Ingeborg
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE 1885
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040276088@ INDI
+1 NAME Tora /Hjellum/
+2 GIVN Tora
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE 1887
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1889
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040276111@ INDI
+1 NAME Brita /Hjellum/
+2 GIVN Brita
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE 1889
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1930
+0 @I272040276148@ INDI
+1 NAME Torstein /Hjellum/
+2 GIVN Torstein
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 1891
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040276174@ INDI
+1 NAME Jens /Hjellum/
+2 GIVN Jens
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 1893
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040276220@ INDI
+1 NAME Tora /Hjellum/
+2 GIVN Tora
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE 1898
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040282894@ INDI
+1 NAME Ragna /Nedberge/
+2 GIVN Ragna
+2 SURN Nedberge
+1 SEX F
+1 FAMS @F37@
+1 BIRT
+2 DATE 1900
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1922
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+0 @I272040282985@ INDI
+1 NAME Olaf /Hjellum/
+2 GIVN Olaf
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F10@
+1 BIRT
+2 DATE 1921
+2 PLAC Underdal, Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1978
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040283054@ INDI
+1 NAME Borghild /Torvund/
+2 GIVN Borghild
+2 SURN Torvund
+1 SEX F
+1 FAMS @F35@
+1 FAMS @F10@
+1 BIRT
+2 DATE 1920
+2 PLAC Torvund, Lavik, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1992
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040283105@ INDI
+1 NAME Olaf /Hjellum/
+2 GIVN Olaf
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F4@
+1 FAMS @F3@
+1 BIRT
+2 DATE 4 Aug 1950
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040283130@ INDI
+1 NAME Randi /Hjellum/
+2 GIVN Randi
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F10@
+1 BIRT
+2 DATE 7 Nov 1952
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040283726@ INDI
+1 NAME Kenneth Olaf /Hjellum/
+2 GIVN Kenneth Olaf
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F6@
+1 BIRT
+2 DATE 27 mai 1974
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040283768@ INDI
+1 NAME David /Hjellum/
+2 GIVN David
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F17@
+1 BIRT
+2 DATE 24 nov 1981
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040284192@ INDI
+1 NAME Borghild /Torvund/
+2 GIVN Borghild
+2 SURN Torvund
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE 1920
+2 PLAC Torvund, Lavik, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1992
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040284518@ INDI
+1 NAME Unni /Grinde/
+2 GIVN Unni
+2 SURN Grinde
+1 SEX F
+1 FAMS @F3@
+1 BIRT
+2 DATE 1955
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040284581@ INDI
+1 NAME Berit /Jøndahl/
+2 GIVN Berit
+2 SURN Jøndahl
+1 SEX F
+1 FAMS @F4@
+1 BIRT
+2 DATE 1958
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040285287@ INDI
+1 NAME Ester /Rånes/
+2 GIVN Ester
+2 SURN Rånes
+1 SEX F
+1 FAMS @F6@
+1 BIRT
+2 DATE 8 jan
+2 PLAC Tingvoll, More og Romsdal, Norway
+0 @I272040285321@ INDI
+1 NAME Britt Sofie /Hjellum/
+2 GIVN Britt Sofie
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE 30 Sep 2009
+2 PLAC Oslo, Oslo, Norway
+0 @I272040285379@ INDI
+1 NAME Olaf Emanuel /Hjellum/
+2 GIVN Olaf Emanuel
+2 SURN Hjellum
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE 1 feb 2013
+2 PLAC Oslo, Oslo, Norway
+0 @I272040285441@ INDI
+1 NAME Ida /Kolstad/
+2 GIVN Ida
+2 SURN Kolstad
+1 SEX F
+1 FAMS @F17@
+1 BIRT
+2 PLAC Drammen, Buskerud, Norway
+0 @I272040285500@ INDI
+1 NAME Iris Marie /Hjellum/
+2 GIVN Iris Marie
+2 SURN Hjellum
+1 SEX F
+1 FAMC @F17@
+1 BIRT
+2 DATE 29 desember 2017
+2 PLAC Drammen, Buskerud, Norway
+0 @I272787054373@ INDI
+1 NAME Jon Sjursen /Skiple/
+2 GIVN Jon Sjursen
+2 SURN Skiple
+1 SEX M
+1 FAMS @F45@
+1 BIRT
+2 DATE 1756
+2 PLAC Aurland, Sogn og Fjordane, Norway
+1 DEAT
+2 DATE 1826
+0 @F1@ FAM
+1 HUSB @I272038087427@
+1 WIFE @I272038087428@
+1 CHIL @I272037909470@
+1 MARR
+2 DATE 1829
+0 @F2@ FAM
+1 HUSB @I272037909661@
+1 WIFE @I272037909639@
+1 CHIL @I272037909280@
+0 @F3@ FAM
+1 HUSB @I272040283105@
+1 WIFE @I272040284518@
+1 CHIL @I272040283726@
+0 @F4@ FAM
+1 HUSB @I272040283105@
+1 WIFE @I272040284581@
+1 CHIL @I272040283768@
+0 @F5@ FAM
+1 HUSB @I272037909470@
+1 WIFE @I272037909506@
+1 CHIL @I272037909323@
+1 MARR
+2 DATE 1853
+2 PLAC Pennsylvania, USA
+2 SOUR @S878721308@
+3 PAGE Year: 1900; Census Place: Township 156, McHenry, North Dakota; Page: 6; Enumeration District: 0092; FHL microfilm: 1241229
+3 _HPID 1,7602::68203137
+3 _WPID 1,7602::68203138
+1 MARR
+2 DATE        1868
+2 PLAC ,, Wisconsin
+0 @F6@ FAM
+1 HUSB @I272040283726@
+1 WIFE @I272040285287@
+1 CHIL @I272040285321@
+1 CHIL @I272040285379@
+0 @F7@ FAM
+1 HUSB @I2002818466@
+1 WIFE @I272037909249@
+1 CHIL @I2002817585@
+0 @F8@ FAM
+1 HUSB @I272038088588@
+1 WIFE @I272038088635@
+1 CHIL @I272038088402@
+0 @F9@ FAM
+1 HUSB @I2002817585@
+1 WIFE @I272037909260@
+1 CHIL @I2002816916@
+0 @F10@ FAM
+1 HUSB @I272040282985@
+1 WIFE @I272040283054@
+1 CHIL @I272040283105@
+1 CHIL @I272040283130@
+0 @F11@ FAM
+1 HUSB @I272037909131@
+1 WIFE @I2002819471@
+1 CHIL @I2002818466@
+0 @F12@ FAM
+1 HUSB @I2006403096@
+1 WIFE @I2006403899@
+1 CHIL @I2006400213@
+0 @F13@ FAM
+1 HUSB @I2006393415@
+1 WIFE @I2006396036@
+1 CHIL @I2006388695@
+0 @F14@ FAM
+1 HUSB @I272038080189@
+1 WIFE @I272038080273@
+1 CHIL @I272038082605@
+1 CHIL @I272038082260@
+1 CHIL @I272038082606@
+1 CHIL @I272038082609@
+1 CHIL @I272038082610@
+1 CHIL @I272037918885@
+1 CHIL @I272038082607@
+1 CHIL @I272038082263@
+1 CHIL @I272038082265@
+0 @F15@ FAM
+1 HUSB @I272038086317@
+1 WIFE @I272038082962@
+1 CHIL @I272037918934@
+0 @F16@ FAM
+1 HUSB @I272037909534@
+1 WIFE @I272037909555@
+1 CHIL @I272037909345@
+0 @F17@ FAM
+1 _SREL partner
+1 HUSB @I272040283768@
+1 WIFE @I272040285441@
+1 CHIL @I272040285500@
+0 @F18@ FAM
+1 HUSB @I1996225971@
+1 WIFE @I272037909019@
+1 CHIL @I1996219108@
+1 CHIL @I272038449145@
+1 CHIL @I272037911420@
+1 MARR
+2 DATE 18 May 1927
+2 PLAC Saskatchewan, Canada
+0 @F19@ FAM
+1 HUSB @I272037909435@
+1 WIFE @I272037909403@
+1 CHIL @I272037909300@
+0 @F20@ FAM
+1 HUSB @I1996219108@
+1 WIFE @I2006388695@
+1 CHIL @I272038521583@
+1 CHIL @I1996219102@
+1 DIV
+2 DATE 17 Mar 1978
+2 PLAC Adams, Colorado, USA
+2 SOUR @S878654076@
+3 _WPID 1,60927::137673
+3 _HPID 1,60927::840871
+0 @F21@ FAM
+1 HUSB @I272038088402@
+1 WIFE @I272038088486@
+1 CHIL @I272038087428@
+0 @F22@ FAM
+1 HUSB @I272038093136@
+1 WIFE @I272038093478@
+1 MARR
+2 DATE 22 Aug 1763
+2 PLAC Machackemeck (Deerpark), Orange, New York
+0 @F23@ FAM
+1 HUSB @I1997625835@
+1 WIFE @I1997628082@
+1 CHIL @I1996225971@
+1 CHIL @I272038449135@
+1 CHIL @I272038449137@
+1 CHIL @I272038449140@
+1 CHIL @I272038449138@
+1 CHIL @I272038449142@
+1 CHIL @I272038449143@
+1 MARR
+2 DATE 1895
+2 PLAC Norway
+0 @F24@ FAM
+1 HUSB @I272037918885@
+1 WIFE @I272037918934@
+1 CHIL @I272037916939@
+1 MARR
+2 DATE 28 Oct 1940
+2 PLAC Allegheny, Pennsylvania, USA
+2 SOUR @S878678670@
+3 _HPID 1,61381::2956655
+3 _WPID 1,61381::902956655
+0 @F25@ FAM
+1 HUSB @I1996219102@
+1 WIFE @I272037915215@
+0 @F26@ FAM
+1 HUSB @I272037909280@
+1 WIFE @I272037909300@
+1 CHIL @I272037909249@
+0 @F27@ FAM
+1 HUSB @I272038092963@
+1 WIFE @I272038093035@
+1 CHIL @I272038088486@
+0 @F28@ FAM
+1 HUSB @I272038380885@
+1 WIFE @I272038380887@
+1 CHIL @I2006396922@
+0 @F29@ FAM
+1 HUSB @I272037918147@
+1 WIFE @I272040275914@
+1 CHIL @I272040275953@
+1 CHIL @I272040275980@
+1 CHIL @I272040276024@
+1 CHIL @I272040276046@
+1 CHIL @I272040276088@
+1 CHIL @I272040276111@
+1 CHIL @I272040276148@
+1 CHIL @I272040276174@
+1 CHIL @I272040275763@
+1 CHIL @I272040276220@
+0 @F30@ FAM
+1 HUSB @I272038087931@
+1 WIFE @I272038087976@
+1 CHIL @I272038087427@
+0 @F31@ FAM
+1 HUSB @I272037909163@
+1 WIFE @I272037909694@
+1 CHIL @I272037909131@
+0 @F32@ FAM
+1 HUSB @I2006396922@
+1 WIFE @I2006397731@
+1 CHIL @I272038380914@
+1 CHIL @I272038380897@
+1 CHIL @I272038381270@
+1 CHIL @I2006396036@
+1 CHIL @I272038380894@
+1 CHIL @I272038380903@
+1 CHIL @I272038380909@
+1 CHIL @I272038380906@
+1 CHIL @I272038380902@
+0 @F33@ FAM
+1 HUSB @I272037918128@
+1 WIFE @I272037918129@
+1 CHIL @I272037918130@
+1 CHIL @I272037918131@
+1 CHIL @I272037918133@
+1 CHIL @I272037909085@
+1 CHIL @I272037918134@
+1 CHIL @I272037918136@
+1 CHIL @I272037918137@
+1 CHIL @I272037918140@
+1 CHIL @I272037918141@
+1 CHIL @I272037918142@
+1 MARR
+2 DATE 11 Jul 1814
+2 PLAC Voss, Hordaland, Norway
+0 @F34@ FAM
+1 HUSB @I2006400213@
+1 WIFE @I272037909227@
+1 CHIL @I2006393415@
+0 @F35@ FAM
+1 HUSB @I272040284192@
+1 WIFE @I272040283054@
+0 @F36@ FAM
+1 HUSB @I272037909323@
+1 WIFE @I272037909345@
+1 CHIL @I272037909019@
+0 @F37@ FAM
+1 HUSB @I272040275763@
+1 WIFE @I272040282894@
+1 CHIL @I272040282985@
+0 @F38@ FAM
+1 HUSB @I272038093136@
+1 WIFE @I272038093158@
+1 CHIL @I272038093035@
+1 MARR
+2 DATE 1745
+2 PLAC Rochester*, Ulster, New York (Kingston?)
+1 MARR
+2 DATE 1750
+2 PLAC Kingston, Ulster, New York
+0 @F39@ FAM
+1 HUSB @I272037909085@
+1 WIFE @I272037909072@
+1 CHIL @I272037918148@
+1 CHIL @I272037918144@
+1 CHIL @I272037918149@
+1 CHIL @I272037918147@
+1 CHIL @I272037918150@
+1 CHIL @I272037918152@
+1 CHIL @I272037918156@
+1 CHIL @I1997625835@
+1 MARR
+2 DATE 18 Apr 1848
+2 PLAC Voss, Hordaland, Norway
+0 @F40@ FAM
+1 HUSB @I2002816132@
+1 WIFE @I2002816916@
+1 CHIL @I1997628082@
+0 @F41@ FAM
+1 HUSB @I2006396922@
+1 WIFE @I272038382344@
+1 CHIL @I272038382345@
+0 @F42@ FAM
+1 HUSB @I272037909470@
+1 CHIL @I272038375679@
+0 @F43@ FAM
+1 HUSB @I272038093891@
+1 CHIL @I272038088588@
+0 @F44@ FAM
+1 HUSB @I272038093092@
+1 CHIL @I272038092963@
+0 @F45@ FAM
+1 HUSB @I272787054373@
+1 CHIL @I272037918128@
+0 @F46@ FAM
+1 WIFE @I272037917479@
+1 CHIL @I2006403899@
+0 @F47@ FAM
+1 WIFE @I272037909200@
+1 CHIL @I2006397731@
+0 @F48@ FAM
+1 WIFE @I272037916939@
+1 CHIL @I272037915215@
+0 @F49@ FAM
+1 WIFE @I272037909679@
+1 CHIL @I2002819471@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 825900
+3 _WDTH 1866
+3 _HGHT 2587
+2 TITL John kilvaine Kolve Hjellum
+1 _OID 0cfa9949-fc7c-4bed-b2c9-340927f1a5ee
+1 DATE 5/29/2012 7:59:51 PM
+1 _CREA 2018-09-16 01:03:18.121
+1 _USER jt3SpIoHnL2WAMMrlzzUBFKZ53MxRNDIHgHV26CK2tpnyHuil+OwD0I8LVMJ6CkKx9UbbAGPLdtChlUigCvN0Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 108336215
+2 _PID 190066548959
+2 _OID 2eef9154-9d58-4495-9649-b77ba349c3b0
+2 _USER zIdgqG77TY7I9aUGlfV74JaBXHnvoru7n6IdHI1ZDvHa1UHDZQ3o23eGi+LsClMdV9aJ3EoCZLCUXpG4BTacSQ==
+3 _ENCR 1
+2 _DATE 2017-02-05 19:35:14.000
+1 _ORIG u
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 117839
+3 _WDTH 816
+3 _HGHT 1056
+2 TITL Olaf Hjellum - U.S., Department of Veterans Affairs BIRLS Death File, 1850-2010 Transcript
+1 _OID 1a45f955-6634-4fa3-9e0f-b0df0266d7d2
+1 DATE 8/8/2013 12:12:40 AM
+1 _CREA 2018-09-16 01:19:20.320
+1 _USER sW5jtSFAkUlgZrZobbptyJu4XMAo/9UOqmnLv4dWMaQNzC0RWc3/RAQ5FUomUixBayKaGpt06CcjLhPUdSXsHA==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID 0305bfa2-fda0-4808-84d0-09501f9e0c4f
+2 _USER lzj0lATK2B150gV2/ql52cpe5baz/XtQscUs9dJJdJlOIPAfIFLbbUzFja5Rw97eirMtkTmGiz5sQrXmOb/zMQ==
+3 _ENCR 1
+2 _DATE 2013-10-14 21:48:35.000
+1 _ORIG u
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 242202
+3 _WDTH 1187
+3 _HGHT 1552
+2 TITL Grandmother1
+1 _OID 1d0dc9bd-ef88-4ade-9d3a-05ada993518e
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2018-09-16 21:05:05.312
+1 _USER pqiAfsZ4ZuBUVKAxbevsvVIR9mmP2nl82yjE9bmbytnnWGQT/Brlyef3U9xn7eboB+BOg1MZTF+Rpa8Hru4PPA==
+2 _ENCR 1
+1 _CLON
+2 _TID 44212400
+2 _PID 6435664393
+2 _OID 27a06def-779c-4bc7-acf5-4af874da560e
+2 _USER 1eJ6piVNUcxl9/+48Ex5OceBv9k7EiXST/oZvKp7gli9VzVqyOjp+4ZEQQkHugotpPQyfl9gjRv3zCf10W4/PA==
+3 _ENCR 1
+2 _DATE 2014-04-29 02:59:16.000
+1 _ORIG u
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 184172
+3 _WDTH 422
+3 _HGHT 633
+2 TITL Margaret Clifford Rosencrans
+1 _OID 284db06e-0f31-44a2-a2ad-1ec46a27345d
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2018-09-16 01:07:05.454
+1 _USER cQw5+pjcmqiDSffzpJK3XjYKvZJL/HugJXRdCoC07/J1NAk/d2VxOlA/rNJu2CmPA4iLRCUla/I9LQevOoTUvA==
+2 _ENCR 1
+1 _CLON
+2 _TID 16764359
+2 _PID 474571295
+2 _OID a4388d71-48c2-4a4a-b220-a67670efeb4b
+2 _USER hK4vJrGF2a6oKB6G2WYqdmAtR8KTDfAbdDVOWOdzUlsAKjRRyOWmOWJK7ym1dDVFU1p/Cut5m2iTxrbbqg1j6g==
+3 _ENCR 1
+2 _DATE 2010-05-13 18:38:36.000
+1 _ORIG u
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 20153
+3 _WDTH 400
+3 _HGHT 327
+2 TITL Page 1 - WWI Draft Registration Cards
+1 _OID 2b8f7818-3a7f-4ea8-a744-43c15596378f
+1 DATE 7 Jan 1896
+1 PLAC North Dakota
+1 _DSCR In 1917 and 1918, approximately 24 million men living in the United States completed a World War I draft registration card.
+1 _CREA 2018-09-18 14:01:25.382
+1 _USER iHn8woV7f6bvic2vHPq+Y2ybjkmIUvYzj0feZvnQS+6dEGaRnpuz63ZqN/8e9Un5WGQgg2uGKqfmsGRxpbJ6dw==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/559175278?terms=hjellum&amp;amp;xid=2030
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 571979
+3 _WDTH 2048
+3 _HGHT 1489
+2 TITL Shirley%25252520Hjellum%25252520002
+1 _OID 2f9d2b1e-5f81-4125-931d-971b12ae8b1f
+1 _DSCR Towner High School
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2018-09-16 01:13:26.311
+1 _USER NFMaIIIYCrn4oSsGEx9qmJSF3dY4K/pX8pyNRru4ktCam2A4N4j9orBwnzlAQjQ+po3mAFIg8X//7ohZDCImzg==
+2 _ENCR 1
+1 _CLON
+2 _TID 75924135
+2 _PID 40335216784
+2 _OID 0521cc7f-69f8-4dca-a569-424fbb06398c
+2 _USER s38ZKAvbzsQccEWje1Adrz4juG6e15h3hDRlqIErZp42NfamPR9MJAxeUj6QtZyPMUn7x/wsfkeirCri7Yhm1w==
+3 _ENCR 1
+2 _DATE 2015-06-05 01:19:01.000
+1 _ORIG u
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 16398
+3 _WDTH 179
+3 _HGHT 400
+2 TITL Page 130 - US Army WWI Transport Service, Passenger Lists
+1 _OID 35431395-d714-486a-9d78-618c7e3ee68c
+1 DATE 1918 Oct 28
+1 PLAC United States
+1 _DSCR Mongolia 1918 Oct 28 Thru Mount Shasta
+1 _CREA 2018-09-18 14:06:32.968
+1 _USER NNVp765KhuGms6Xvbzy3EISisthNMnZ9s1VUFb8EZxbFP4nhP+lcuPHDjOGpC1DStWEiVBz8S2QKLsS48iU3/g==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/603960411?rec=620479309&amp;amp;terms=hjellum&amp;amp;xid=2030
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 25080
+3 _WDTH 400
+3 _HGHT 321
+2 TITL Page 449 - A Record of the Commissioned Officers, Non-Commissioned Officers and Privates, of the Regiments Which Were Organized 
+1 _OID 3ab2cc60-8e39-4a65-9dce-a8efe9c44952
+1 DATE 1861
+1 PLAC United States
+1 _DSCR Published lists of commissioned officers, non-commissioned officers, and privates organized in New York during the U.S. Civil War.
+1 _CREA 2018-09-18 14:13:37.809
+1 _USER OtA2iOPZtYiFwkWsY47CdQjhYoEyEkmkdTIGuP18nQ1uLquq1nyGFgT+WCT6lIrjffcJjvH7FxlI76kdrutGrQ==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/312101204?terms=Martin%20Rosencrantz&amp;amp;xid=2030
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 16460
+3 _WDTH 196
+3 _HGHT 400
+2 TITL Page 86 - Muster Rolls and Personnel Diaries of US Navy Ships, Stations, and Other Naval Activities, 1949-1971
+1 _OID 48347f4d-fe13-4a75-80b5-3e0515746e43
+1 DATE 1952
+1 PLAC United States
+1 _DSCR Muster rolls of U.S. Navy ships, stations, and other naval activities, 1949-1971.
+1 _CREA 2018-09-18 15:51:46.250
+1 _USER EFSA1XhLd/KdZbpH7TXt9pM3X/665WhDfkmaVLcd5/btXbg5FrI3huI6DEIIH3EuwfvgPDMyXI5LPKvcKgsq7w==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/312601300?terms=hjellum&amp;amp;xid=2030
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 3623016
+3 _WDTH 2152
+3 _HGHT 2312
+2 TITL Olaf Hjellum - Border Crossings From Canada to U.S., 1895-1954
+1 _OID 536d6d7a-3349-4f26-846e-9923b38f941a
+1 DATE 7/19/2012 10:51:42 AM
+1 _CREA 2018-09-16 01:19:00.998
+1 _USER JiNQPURotD87aRgMGO5xJbV0unpjzm9b6b337Hz6J2HXyMeCDSEczTGdSnaYfmtEnqvOEnXU3OHKGyN/hddGAw==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID 5d5ec0a0-9a70-4f53-ab9e-85aa82224191
+2 _USER JK3ypICbIFURNxtYZ8GjTly7BDVrd7wIvdCHi355m7MC3br8s/yQGKQadd5iKNH5C7ZydTF8XrVw6kmzKvEaww==
+3 _ENCR 1
+2 _DATE 2013-10-14 21:48:11.000
+1 _ORIG u
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 26056
+3 _WDTH 262
+3 _HGHT 400
+2 TITL Page 2 - Selective Service Registration Cards, World War II: Fourth Registration
+1 _OID 55302251-3b18-4232-b181-61f28eed5311
+1 DATE 7 Jan 1896
+1 PLAC Bergen, Norway
+1 _DSCR WWII draft cards from the Fourth Registration, often called the &quot;Old Man's Draft,&quot; because it registered men who were 45 to 64 years old at the time.
+1 _CREA 2018-09-18 14:04:21.740
+1 _USER 4/rYdInDRu+U0zbnwmySYMuuIgOq1xqmypNQh0YAOFO8fzzis9pGWsjgML8aLtQ7UqVChViLRqKA2hMDEBPMyw==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/577799611?xid=2030
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE headstone
+3 _STYPE jpeg
+3 _SIZE 70802
+3 _WDTH 374
+3 _HGHT 280
+2 TITL Andrew and Marie Lesko Sidun
+1 _OID 647fa14a-807e-441b-971a-12daa931778a
+1 _DSCR Photo by Diana Watson.
+1 _CREA 2018-09-16 20:31:31.262
+1 _USER i6FBGlnPggQ7LV7DpEy/9+b5aHRO5dSraXLvPsxjsZh9wttJ/FgEZRCCYe6wHo+WYublD51ixYHGlD61lc13Ug==
+2 _ENCR 1
+1 _CLON
+2 _TID 2056828
+2 _PID 420116044144
+2 _OID 44fa004b-335a-4cfe-83b2-1a6fee325bd0
+2 _USER Bo3cdxaXFzGTb6ohL/5fC/lP4yoPcQS2OCVzhrF+rpDu/zXa9Vjvbw0cUivhQCSnCcvlUpK7VyClZwu3hPJshw==
+3 _ENCR 1
+2 _DATE 2017-07-23 16:13:11.000
+1 _ORIG u
+1 _ATL N
+0 @O13@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 0
+2 TITL Survey-Henry Steel
+1 _OID 73c7a7bf-bf73-4913-901f-fe6d899cbe42
+1 _DSCR In pursuance of warrant dated the 5th day of May 1794.Surveyed the 29th day of January 1812. To Henry Steel the above described tract of land, including a small water ash swamp, about three-quarters of a mile from the "Deleware" River in Deleware T
+2 CONC ownship, Wayne County. Containing 156.123 acres.
+1 _CREA 2018-09-16 21:03:33.926
+1 _USER oarNuhytcubM2InyUVTy6zkgeTaoLm2gdw1w50FjfgR5EvkoqyBYmP40dQ0YmXh04eyXbuHL+0ZLjOt2a7jCWg==
+2 _ENCR 1
+1 _CLON
+2 _TID 80923106
+2 _PID 42430156853
+2 _OID 4d606caf-5541-49ab-9c3d-c5e856b3cbfe
+2 _USER Zc1Lrd5qm1DezeuIgnQcT3Ma+xf4ashdRdZZpzCw3IlL2VaHK+hKBBewyPlvKftatH/7ncogkg6a9PzHcxOBIg==
+3 _ENCR 1
+2 _DATE 2015-06-09 18:44:16.000
+1 _ORIG u
+1 _ATL N
+0 @O14@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 8405
+3 _WDTH 360
+3 _HGHT 420
+2 TITL Vern Hjellum
+1 _OID 7d167bfc-0e55-4542-a152-41081b96bcf5
+1 _CREA 2018-09-18 14:07:24.209
+1 _USER lfaYVOtblNoxC85zATW/wQ4nfH2Gp6b7R8S2bKfpYAka2iculvE+8X4V48atsWempfL/zL+9gK7vcPv7oEZmPg==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/record/67275037-vern-hjellum?xid=2030
+1 _ATL N
+0 @O15@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 4637
+3 _WDTH 172
+3 _HGHT 217
+2 TITL Olaf Hjellum  (1896)
+1 _OID 7efc8cac-2af5-424a-a74d-f2d59d6264fd
+1 _DSCR 1914-1918
+1 _CREA 2018-09-18 14:10:13.066
+1 _USER E8r7rOTcKIpaVVgybzD66+HK1Tjic5SdRbBcxbzkGeSjpsVVnwHxG0LR5r362cygwQl7OxaAWsfhE3Nslp2IqA==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/page/626801223-olaf-hjellum-1896?xid=2030
+1 _ATL N
+0 @O16@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 29477
+3 _WDTH 400
+3 _HGHT 264
+2 TITL Page 1 - Selective Service Registration Cards, World War II: Fourth Registration
+1 _OID a06857cc-7653-4054-8e2c-f78bd80b6368
+1 DATE 7 Jan 1896
+1 PLAC Bergen, Norway
+1 _DSCR WWII draft cards from the Fourth Registration, often called the &quot;Old Man's Draft,&quot; because it registered men who were 45 to 64 years old at the time.
+1 _CREA 2018-09-18 14:03:52.051
+1 _USER YYQQhSEAVm3Z+757Io+ZvukKUJjrD/+QELBJczb6+EWtgs0bLz16Vie4e2RWfGGj3ulg5FJYYgA4Xkpcm/vwbA==
+2 _ENCR 1
+1 _ORIG fold3
+2 _URL https://www.fold3.com/image/577799610?terms=hjellum&amp;amp;xid=2030
+1 _ATL N
+0 @O17@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE png
+3 _SIZE 181476
+3 _WDTH 1012
+3 _HGHT 818
+2 TITL Adam Wormsbecker - Rostov
+1 _OID a6fe8d10-f2b8-4c47-8dda-7594af0d2a1b
+1 PLAC Rostov, Russia
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2018-09-17 22:49:56.076
+1 _USER cWtnov0h0Z7TM8Fi93z5MK5eiYG/e9zdmroA1TeLU0S6B/sNPuaCOIqIbmSJbaAvn4/sO2HHADTo1nVvmACy1g==
+2 _ENCR 1
+1 _CLON
+2 _TID 75924135
+2 _PID 40335269024
+2 _OID 3ac9db0a-f068-483c-aeac-ee62db3d165d
+2 _USER j7ar0jTVctX4mT/cDG6Ei6ZFyWXVSdO4XMocxipJFaTEyYAfst962dAq6rVLzWNt+/Ptc+fPfDb5mVuTFQeUmg==
+3 _ENCR 1
+2 _DATE 2014-12-28 18:32:17.000
+1 _ORIG u
+1 _ATL N
+0 @O18@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 2888905
+3 _WDTH 2586
+3 _HGHT 1606
+2 TITL Olaf Hjellum - North Dakota State Census, 1925 - McHenry County Sheet 2
+1 _OID a8656da6-0a74-4cc9-ba13-c23330e9b621
+1 DATE 7/19/2012 12:49:18 PM
+1 _CREA 2018-09-16 01:19:25.710
+1 _USER 5wELbm0aOnwwu6YlTvx4x+CR4lz3PsPnMxF9RQZKNnHw/vStgbZbdKdjBF0hWmdhddZJkwGRTfiSJW9Wx6708g==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID 0d77e519-895b-4986-8603-13debb04c1d6
+2 _USER zYLLKqmR5RwJrF6F8vdwBIzu4tTWHv8hq2bbB4ddUNsgyhS3vkWPK+sDDUnXzVaiHItJ1quiVcWl6LJlr/X4IA==
+3 _ENCR 1
+2 _DATE 2013-10-14 21:48:27.000
+1 _ORIG u
+1 _ATL N
+0 @O19@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 35580
+3 _WDTH 445
+3 _HGHT 588
+2 TITL Timothy Hjellum
+1 _OID ab706fe3-9245-4157-bd68-37579e0d3437
+1 _DSCR Ancestry.com. U.S., School Yearbooks, 1900-2016 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.
+1 _META <metadataxml><record_source_gid>646744060:1265</record_source_gid></metadataxml>
+1 _CREA 2026-07-11 17:53:31.184
+1 _USER 7Oeki0Yqp49sG67rEy6mPJX4Q0UbZxX6l1a3xuDZ4h73XNC+slWUsTaXIaC1dBo58RJVb7TCgLUBHc5e4DSuGA==
+2 _ENCR 1
+1 _ORIG u
+1 _ATL Y
+0 @O20@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 291567
+3 _WDTH 334
+3 _HGHT 500
+2 TITL 500[1](1)
+1 _OID ac6c7ec6-9b9f-40a5-8255-2111643fc3a8
+1 DATE 9/14/2014 7:14:05 AM
+1 _CREA 2018-09-16 20:53:30.696
+1 _USER 4+Ctev2kh7jt3dfiydra535ZQ9upGJz4PHCVCoAETWNEr5vNb+AYLehhYSFtRM2u28CEm0sNm8Ba6aI3fpSU8A==
+2 _ENCR 1
+1 _CLON
+2 _TID 28130776
+2 _PID 26656826676
+2 _OID bd45be92-8ce8-4128-b02c-fbd9c1a9c0f5
+2 _USER wC6a79B2rkqKL0+XH/xL/LYaIFbokCSXZBGb3bCpK1ISwCtbYxqrazghPbeb+j0ZQunZ7tAb6FP1TL4KQ0AsuQ==
+3 _ENCR 1
+2 _DATE 2014-09-16 11:32:20.000
+1 _ORIG u
+1 _ATL N
+0 @O21@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 14681092
+3 _WDTH 4400
+3 _HGHT 3008
+2 TITL Olaf Hjellum - 1920 United States Federal Census
+1 _OID b3d37306-e557-41d6-9679-ecb2128f51ee
+1 DATE 11/23/2013 6:41:21 PM
+1 _CREA 2018-09-16 01:19:36.671
+1 _USER Q5QXFVGtUkobjH0m7N4MMDLzRXALU9wzb4mOWt2Gr9mBzRFZO1Qtxitlk6FbHNdGAxuBxcW9tqgLj5SDdXsCcw==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID 69d5cfcf-19e9-4afb-b76a-d36da655d5e8
+2 _USER QwxWmr+DYJUyT6GruykQKpJcCaHVtoLVOcJdCWSoyLH/UMMKDGQPf0B0pa4R4x5rRMz2KWEfZt3wlsYbxFAZig==
+3 _ENCR 1
+2 _DATE 2013-11-27 03:06:14.000
+1 _ORIG u
+1 _ATL N
+0 @O22@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 1244615
+3 _WDTH 2512
+3 _HGHT 1872
+2 TITL Olaf Hjellum - World War I Draft Registration Cards, 1917-1918
+1 _OID bd902bcc-e531-4f7d-bb41-19f1b75efe20
+1 DATE 7/19/2012 10:47:40 AM
+1 _CREA 2018-09-16 01:19:08.335
+1 _USER pqsTi+P+gHvmahbYq6IJ6HC9JVu6q+xJjj5c0WZCgyiQdzjow0ISKnzsPxObqh5p+DaPmshl9NgHoUVpTrD0DQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID 905f6075-1909-4ee9-96e1-05cdc26f6578
+2 _USER ybR32GvqviM+StyG8wEqx8aDspiwB+Ae/518V4u1bO5qTDSCTryTP3hB3TPReAhDMVhXt+iz3FYvc4gQgT0/Yg==
+3 _ENCR 1
+2 _DATE 2013-10-14 21:48:11.000
+1 _ORIG u
+1 _ATL N
+0 @O23@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 132139
+3 _WDTH 816
+3 _HGHT 1056
+2 TITL Olaf Hjellum - Web Arizona, Find A Grave Index, 1861-2012 Transcript
+1 _OID c3773bd4-22ec-4641-8362-fddd87e3aa55
+1 DATE 7/25/2013 1:20:46 AM
+1 _CREA 2018-09-16 01:19:28.649
+1 _USER xICheO6+e4Rato0T73aGoA6R4syVTmfJbCj94bHsSRtEMIPQXwfNV0+pWu32Bd8E0CTGxfrV770Wi2xvwEUE8A==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID 284cdc72-24e6-4da4-a272-6b47cc83176b
+2 _USER 9WM7jddibUg1tiU51PQx7Nqi53Hm8NHHDLHpnzGUtOsif0zSPKKKWhB30whPgQrIO578IT6XtH3UgN/DT5gbfQ==
+3 _ENCR 1
+2 _DATE 2013-10-14 21:48:35.000
+1 _ORIG u
+1 _ATL N
+0 @O24@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 100642
+3 _WDTH 363
+3 _HGHT 926
+2 TITL Amanda Courtright Quick Pike County press. (Milford, Pa.) 1895-1925, June 16, 1899
+1 _OID c392f87c-9720-4d00-b466-fe214c21bb15
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2018-09-16 21:01:33.445
+1 _USER EnlhS4cTBb6UzNXWfJpMZndDhPD0XMpbsiRKk5gTu4fiM014MdkL7uw5KK96bE3L/qEUaA9I/DmZV5XpVk9bRw==
+2 _ENCR 1
+1 _CLON
+2 _OID 6bc96dee-c131-4193-bd40-3fdf9bd21f4d
+2 _USER gPx6V86tKS4om20dPig+LebbiLstphuh+uqYtIOKwi1N/7LFNpdrbVXsJHW98qscSyl9QecbEEbITFdieJ/alA==
+3 _ENCR 1
+2 _DATE 2014-12-29 12:20:50.000
+1 _ORIG u
+1 _ATL N
+0 @O25@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 1007339
+3 _WDTH 1926
+3 _HGHT 2593
+2 TITL Tora Olsdatter Gjesme Melhus
+1 _OID cb727bd1-131d-4457-9da3-90caa0464438
+1 DATE 5/29/2012 8:01:30 PM
+1 _CREA 2018-09-16 01:03:03.917
+1 _USER ceB1903P1hb4xd3VJuBUSXgBaKQc7Z4T6EnzMU7/wJl36pL1TqsIdET7CWiVt/IJkMWh2AFtnKfmlosiTZEckw==
+2 _ENCR 1
+1 _CLON
+2 _TID 108336215
+2 _PID 190066548960
+2 _OID bfa7f64e-ee01-4b77-aace-d582a3d5bf0d
+2 _USER tlIhL1hQ9rn8EdeTeH3vX45GwZBzjs3Orw35jS3ZSRRVOaxBNjNi6m0wUXjfswlvcf1Usayf5pSjziHFRZYVMA==
+3 _ENCR 1
+2 _DATE 2017-02-05 19:35:59.000
+1 _ORIG u
+1 _ATL N
+0 @O26@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 2501075
+3 _WDTH 2552
+3 _HGHT 5729
+2 TITL Delaware Water Gap map
+1 _OID ce1162b8-8b65-49f8-9d7f-ebcafd8b67ea
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2018-09-16 21:04:51.232
+1 _USER LD3fxIl/vTvfsjCBsgV8AetSKZ8Olwbs0eE4RXdelWaK+bXf7khFRO4BrNoOW7NWtvS14k/+ay5attwjdAS4QQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 44212400
+2 _PID 6435476241
+2 _OID 846ff2a9-6585-4be2-ae76-42db20227d41
+2 _USER Lpx0A4jfXz0h6t8ESsT+J8lEAGTHc6jXgEW9WE134qlmnuLal9yl/jI9rAY3HRJvdOhk3NhFvG1OzoEaAktuUA==
+3 _ENCR 1
+2 _DATE 2014-08-19 01:36:25.000
+1 _ORIG u
+1 _ATL N
+0 @O27@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 285074
+3 _WDTH 334
+3 _HGHT 500
+2 TITL 500[1]
+1 _OID e26dca0d-4226-4ab0-b384-698da56d9bf0
+1 DATE 9/14/2014 7:11:52 AM
+1 _CREA 2018-09-16 20:53:39.411
+1 _USER mUK8ohnQcMtbba/hZr9SeuxhDf5pZCeq+S48RH3IDsh75+n8nJFvYSagUGyl3BjsYBmQx+q7B8us9xXIyGtkMw==
+2 _ENCR 1
+1 _CLON
+2 _TID 28130776
+2 _PID 26656826676
+2 _OID 2d7bcc18-7a66-4a0d-9a66-e12fdce29650
+2 _USER 2OuKRWrvA945E+5PMJp3nrToNQNKHNGdz+uq2N82CLVpep1DhpJSxvQhe0I9MSdSFUrnmVjboSwKPQqFUObYpQ==
+3 _ENCR 1
+2 _DATE 2014-09-16 11:32:20.000
+1 _ORIG u
+1 _ATL N
+0 @O28@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 182380
+3 _WDTH 816
+3 _HGHT 1056
+2 TITL Olaf Hjellum - Border Crossings From Canada to U.S., 1895-1954 Transcript
+1 _OID ed34f524-f931-4e1a-a46f-24cc571a0099
+1 DATE 7/24/2013 9:40:06 PM
+1 _CREA 2018-09-16 01:19:19.998
+1 _USER UJCnM+KcXUqTb0QotKHxypZv7gfaGnmrntZyU1OCaNfSYngZO07mA7kCco+CKo4UyynDzcEPr59Mprsmv+T2JQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID 8b3a2333-b96e-4127-a2ce-37ec9373a7df
+2 _USER Q5tKIsOEQmfyS10qh5UyGy7nMbg+BPufQ8VHyHhD9yooUvGkskUFto94eUMQW4EhT3TFJCLPAeM7QAR2TPdQAw==
+3 _ENCR 1
+2 _DATE 2013-10-14 21:48:16.000
+1 _ORIG u
+1 _ATL N
+0 @O29@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 982154
+3 _WDTH 2540
+3 _HGHT 3221
+2 TITL Mitchell will
+1 _OID f0ebd114-f699-4f94-beaf-3fb0d2a6b47c
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2018-09-16 01:07:20.948
+1 _USER h7nsCfacq21QfxwerUt9qA69gh5y+PGkhNexRzbneSdIB/iBrFxiuvkXAOOqQX04Ri+gOT9ig/o8MxnoQ2QANg==
+2 _ENCR 1
+1 _CLON
+2 _TID 22478156
+2 _PID 1499611302
+2 _OID 41448c63-edaf-4c00-91ab-f78740edc8e6
+2 _USER 3QWK77lRJLKDzAQTGunjXuX20HFLmiNoUYL85XJ0lb5hiix/SFhTc/n0wkXoPiLVlSSnlVCyGVvN8hxSPWWcnw==
+3 _ENCR 1
+2 _DATE 2011-02-01 07:11:52.000
+1 _ORIG u
+1 _ATL N
+0 @O30@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 172016
+3 _WDTH 816
+3 _HGHT 1056
+2 TITL Olaf Hjellum - World War I Draft Registration Cards, 1917-1918 Transcript
+1 _OID f27b8b90-a3cd-4459-b69f-9d9b6abd201f
+1 DATE 7/24/2013 10:58:35 PM
+1 _CREA 2018-09-16 01:19:17.586
+1 _USER 42WtNqvqGlaNjJtTUt+oODx4df6H2teXmLgabJ8lUAa0UA8EwP2Ia738dwMY6XOqvbZPx1gCGY6bkSzWxctE/A==
+2 _ENCR 1
+1 _CLON
+2 _TID 62293381
+2 _PID 32086509495
+2 _OID fa92bb03-be75-4212-b53f-ae23095e0756
+2 _USER zFqHtOxo0lLClt+J5PzjjPTyYtKWo3E0a4lDrqcHOvbbyWWdeI78u34VUvob0lFx0aH3whMxpY7T2g+D8jhmNQ==
+3 _ENCR 1
+2 _DATE 2013-10-14 21:48:15.000
+1 _ORIG u
+1 _ATL N
+0 @O31@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 30138
+3 _WDTH 298
+3 _HGHT 407
+2 TITL J002423
+1 _OID f8b01cde-2b95-4b16-8cb1-637f25676893
+1 DATE 8/12/2013 9:49:58 AM
+1 _CREA 2018-09-16 02:14:25.559
+1 _USER 0PH9Ig17uM7BJQyk0xuijiUhvzvDLkriMaIr7Wh/QOF+wjvmmncfFSXqL0vWAWEtt/wyehDUMip4urmDfXr8JQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 56137113
+2 _PID 36006490254
+2 _OID 591f754c-91fd-48f4-9dfb-29ab06f4e09f
+2 _USER ExkXM+/bhsxlOJVl6dSN7nEcGUYgYBty9E8qtdHUjfNqegHu+51bslrr1XheD5B095iVbW2e98iyD8c5+Wn0tQ==
+3 _ENCR 1
+2 _DATE 2013-08-12 16:29:13.000
+1 _ORIG u
+1 _ATL N
+0 @O32@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 35725
+3 _WDTH 333
+3 _HGHT 499
+2 TITL Martin Clifford Rosencrans
+1 _OID fa16d8d8-4d54-46e5-842c-20ccb1593810
+1 _CREA 2018-09-16 01:06:54.508
+1 _USER 7cAwfgng+mlbC7Nq4c7nV+J5sMHmsgfkZe8BUWVEor8REzDxqJJUAPxBFtZrR2xFs0fyXFJJm9FNd9xgj16Ijw==
+2 _ENCR 1
+1 _CLON
+2 _TID 7001878
+2 _PID 2016390313
+2 _OID 6041530b-2f59-4574-93e9-5c2e67d7043a
+2 _USER S17FvHhe0xBuNZuwNnj4jIt6QiC7UlF6SAeN99yec8jLdKu2gJXwMg8JjupffxDcuccwKN1Eaw1/cT40cJjaNA==
+3 _ENCR 1
+2 _DATE 2012-09-23 07:48:30.000
+1 _ORIG u
+1 _ATL N
+0 @S878654043@ SOUR
+1 TITL Minnesota, Birth Index, 1935-1995
+1 AUTH Minnesota Department of Health
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Provo, UT, USA
+1 _APID 1,8742::0
+1 REPO @R853231812@
+0 @S878654048@ SOUR
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1788::0
+1 REPO @R853231812@
+0 @S878654054@ SOUR
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,1732::0
+1 REPO @R853231812@
+0 @S878654076@ SOUR
+1 TITL Colorado, Divorce Index, 1851-1985
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2015
+2 PLAC Provo, UT, USA
+1 _APID 1,60927::0
+1 REPO @R853231812@
+0 @S878655011@ SOUR
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+1 _APID 1,1030::0
+1 REPO @R853231812@
+0 @S878678258@ SOUR
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Provo, UT, USA
+1 _APID 1,6061::0
+1 REPO @R853231812@
+0 @S878678328@ SOUR
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2002
+2 PLAC Provo, UT, USA
+1 _APID 1,6224::0
+1 REPO @R853231812@
+0 @S878678435@ SOUR
+1 TITL 1940 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,2442::0
+1 REPO @R853231812@
+0 @S878678652@ SOUR
+1 TITL U.S., Find A Grave Index, 1600s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,60525::0
+1 REPO @R853231812@
+0 @S878678655@ SOUR
+1 TITL U.S., Social Security Applications and Claims Index, 1936-2007
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2015
+2 PLAC Provo, UT, USA
+1 _APID 1,60901::0
+1 REPO @R853231812@
+0 @S878678670@ SOUR
+1 TITL Pennsylvania, Marriages, 1852-1968
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2016
+2 PLAC Lehi, UT, USA
+1 _APID 1,61381::0
+1 REPO @R853231812@
+0 @S878678677@ SOUR
+1 TITL U.S. City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Provo, UT, USA
+1 _APID 1,2469::0
+1 REPO @R853231812@
+0 @S878678702@ SOUR
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2014
+2 PLAC Provo, UT, USA
+1 _APID 1,3693::0
+1 REPO @R853231812@
+0 @S878679587@ SOUR
+1 TITL American Civil War Soldiers
+1 AUTH Historical Data Systems, comp.
+1 PUBL Ancestry.com Operations Inc
+2 DATE 1999
+2 PLAC Provo, UT, USA
+1 _APID 1,3737::0
+1 REPO @R853231812@
+0 @S878679613@ SOUR
+1 TITL 1860 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2009
+2 PLAC Provo, UT, USA
+1 _APID 1,7667::0
+1 REPO @R853231812@
+0 @S878680075@ SOUR
+1 TITL Pennsylvania, Revolutionary War Battalions and Militia Index, 1775-1783
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,2591::0
+1 REPO @R853231812@
+0 @S878721308@ SOUR
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2004
+2 PLAC Provo, UT, USA
+1 _APID 1,7602::0
+1 REPO @R853231812@
+0 @S878721319@ SOUR
+1 TITL Iowa, Marriage Records, 1880-1940
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Lehi, UT, USA
+1 _APID 1,8823::0
+1 REPO @R853231812@
+0 @S878721682@ SOUR
+1 TITL 1910 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2006
+2 PLAC Lehi, UT, USA
+1 _APID 1,7884::0
+1 REPO @R853231812@
+0 @S878721690@ SOUR
+1 TITL U.S., World War I Draft Registration Cards, 1917-1918
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2005
+2 PLAC Provo, UT, USA
+1 _APID 1,6482::0
+1 REPO @R853231812@
+0 @S878721727@ SOUR
+1 TITL North Dakota, Territorial and State Censuses, 1885, 1915, 1925
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
+2 DATE 2008
+2 PLAC Provo, UT, USA
+1 _APID 1,1078::0
+1 REPO @R853231812@
+0 @S878721759@ SOUR
+1 TITL Washington, Death Index, 1940-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2002
+2 PLAC Provo, UT, USA
+1 _APID 1,6716::0
+1 REPO @R853231812@
+0 @S878721797@ SOUR
+1 TITL U.S., World War II Draft Registration Cards, 1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1002::0
+1 REPO @R853231812@
+0 @S878721806@ SOUR
+1 TITL Montana, County Marriages, 1865-1950
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2014
+2 PLAC Provo, UT, USA
+1 _APID 1,60062::0
+1 REPO @R853231812@
+0 @S878731007@ SOUR
+1 TITL WWI Draft Registration Cards
+1 PUBL The National Archives
+2 DATE 7 Jan 1896
+2 PLAC North Dakota
+1 REPO @R853235088@
+0 @S878731022@ SOUR
+1 TITL Selective Service Registration Cards, World War II: Fourth Registration
+1 PUBL The National Archives
+2 DATE 7 Jan 1896
+2 PLAC Bergen, Norway
+1 REPO @R853235088@
+0 @S878731043@ SOUR
+1 TITL US Army WWI Transport Service, Passenger Lists
+1 PUBL The National Archives
+2 DATE 1918 Oct 28
+2 PLAC United States
+1 REPO @R853235088@
+0 @S878731049@ SOUR
+1 TITL 0
+1 PUBL Social Security Administration
+1 REPO @R853235088@
+0 @S878731070@ SOUR
+1 REPO @R853235088@
+0 @S878731101@ SOUR
+1 TITL A Record of the Commissioned Officers, Non-Commissioned Officers and Privates, of the Regiments Which Were Organized in the State of New York and Called Into the Service of the United States to Assist in Suppressing the Rebellion
+1 PUBL New York State Military Museum
+2 DATE 1861
+2 PLAC United States
+1 REPO @R853235088@
+0 @S878733531@ SOUR
+1 TITL Muster Rolls and Personnel Diaries of US Navy Ships, Stations, and Other Naval Activities, 1949-1971
+1 PUBL The National Archives
+2 DATE 1952
+2 PLAC United States
+1 REPO @R853235088@
+0 @S981192738@ SOUR
+1 TITL U.S., School Yearbooks, 1900-2016
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2010
+2 PLAC Lehi, UT, USA
+1 _APID 1,1265::0
+1 REPO @R853231812@
+0 @R853231812@ REPO
+1 NAME Ancestry.com
+0 @R853235088@ REPO
+1 NAME https://www.fold3.com
+0 @T32@ _MTTAG
+1 NAME Prioritized Ancestor
+1 RIN 32
+1 _VISI 1
+1 _MTCAT @C5@
+0 @C5@ _MTCAT
+1 NAME Research
+1 RIN 5
+0 TRLR
